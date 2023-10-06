@@ -128,32 +128,32 @@
           {
             "name": "Fondamenti di informatica 1",
             "url": "ing-fondamenti-di-informatica-1-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Analisi 1",
             "url": "ing-analisi-matematica-1-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Algebra e geometria",
             "url": "ing-algebra-e-geometria-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Fondamenti di informatica 2",
             "url": "ing-fondamenti-di-informatica-2-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Analisi 2",
             "url": "ing-analisi-matematica-2-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Reti logiche",
             "url": "ing-reti-logiche-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           }
         ]
       },
@@ -163,42 +163,42 @@
           {
             "name": "Matematica applicata",
             "url": "ing-matematica-applicata-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Calcolatori elettronici",
             "url": "ing-calcolatori-elettronici-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Fisica generale",
             "url": "ing-fisica-generale-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Sistemi informativi",
             "url": "ing-sistemi-informativi-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Sistemi operativi",
             "url": "ing-sistemi-operativi-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Fondamenti di telecomunicazioni",
             "url": "ing-fondamenti-di-telecomunicazioni-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Economia e organizzazione aziendale",
             "url": "ing-economia-e-organizzazione-aziendale-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Elettrotecnica",
             "url": "ing-elettrotecnica-t",
-            "chat": ""
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           }
         ]
       },
@@ -207,28 +207,34 @@
         "teachings": [
           {
             "name": "Reti di calcolatori",
-            "url": "ing-reti-di-calcolatori-t"
+            "url": "ing-reti-di-calcolatori-t",
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Controlli automatici",
-            "url": "ing-controlli-automatici-t"
+            "url": "ing-controlli-automatici-t",
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Tecnologie web",
-            "url": "ing-tecnologie-web-t"
+            "url": "ing-tecnologie-web-t",
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Elettronica",
-            "url": "ing-elettronica-t"
+            "url": "ing-elettronica-t",
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
           },
           {
             "name": "Amministazione di sistemi",
             "url": "ing-laboratorio-amm-sistemi-t",
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
             "optional": true
           },
           {
             "name": "Laboratorio di sicurezza informatica",
             "url": "ing-laboratorio-sicurezza-informatica-t",
+            "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
             "optional": true
           }
         ]
