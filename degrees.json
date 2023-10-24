@@ -1,0 +1,114 @@
+[
+  {
+    "id": "informatica",
+    "name": "Informatica",
+    "icon": "🧑‍💻",
+    "years": [
+      {
+        "year": 1,
+        "teachings": [
+          {
+            "$ref": "teachings.json#/1/teachings?filter=id&value=informatica"
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "teachings": [
+          {
+            "$ref": "teachings.json#/2/teachings?filter=id&value=informatica"
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "teachings": [
+          {
+            "$ref": "teachings.json#/3/teachings?filter=id&value=informatica"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ingegneria",
+    "name": "Ingegneria Informatica",
+    "icon": "👨‍🔧",
+    "years": [
+      {
+        "year": 1,
+        "teachings": [
+          {
+            "$ref": "teachings.json#/1/teachings?filter=id&value=ingegneria"
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "teachings": [
+          {
+            "$ref": "teachings.json#/2/teachings?filter=id&value=ingegneria"
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "teachings": [
+          {
+            "$ref": "teachings.json#/3/teachings?filter=id&value=ingegneria"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "informatica-magistrale",
+    "name": "Informatica Magistrale",
+    "icon": "🧑‍🏫",
+    "years": [
+      {
+        "year": 1,
+        "teachings": [
+          {
+            "$ref": "teachings.json#/1/teachings?filter=id&value=informatica-magistrale"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ingegneria-e-scienze-informatiche-magistrale",
+    "name": "Ingegneria e Scienze Informatiche Magistrale",
+    "icon": "🥸",
+    "years": [
+      {
+        "year": 1,
+        "teachings": [
+          {
+            "$ref": "teachings.json#/1/teachings?filter=id&value=ingegneria-e-scienze-informatiche-magistrale"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "artificial-intelligence",
+    "name": "Artificial Intelligence Master's Degree",
+    "icon": "🧠",
+    "years": [
+      {
+        "year": 1,
+        "teachings": [
+          {
+            "$ref": "teachings.json#/1/teachings?filter=id&value=artificial-intelligence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lab",
+    "name": "Laboratori fra Pari",
+    "icon": "🧪"
+  }
+]
