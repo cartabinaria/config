@@ -101,7 +101,7 @@
           ],
           "electives": [
             "ing-laboratorio-sicurezza-informatica-t",
-            "ing-laboratorio-amm-sistemi-t",
+            "ing-laboratorio-amm-sistemi-t"
           ]
         }
       }
@@ -173,6 +173,10 @@
     "id": "lab",
     "name": "Laboratori fra Pari",
     "icon": "🧪",
-    "teachings": "lab"
+    "teachings": {
+      "mandatory": [
+        "lab"
+      ]
+    }
   }
 ]
