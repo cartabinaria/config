@@ -6,27 +6,53 @@
     "years": [
       {
         "year": 1,
-        "teachings": [
-          {
-            "$ref": "teachings.json#/1/teachings?filter=id&value=informatica"
-          }
-        ]
+        "chat": "t.me/uniboinfo23",
+        "teachings": {
+          "mandatory": [
+            "analisi-matematica",
+            "architettura-degli-elaboratori",
+            "logica-per-informatica",
+            "programmazione",
+            "algoritmi-e-strutture-dati",
+            "algebra-e-geometria"
+          ]
+        }
       },
       {
         "year": 2,
-        "teachings": [
-          {
-            "$ref": "teachings.json#/2/teachings?filter=id&value=informatica"
-          }
-        ]
+        "chat": "t.me/uniboinfo2223",
+        "teachings": {
+          "mandatory": [
+            "calcolo-numerico",
+            "ottimizzazione-combinatoria",
+            "tecnologie-web",
+            "reti-di-calcolatori",
+            "linguaggi-di-programmazione",
+            "sistemi-operativi"
+          ]
+        }
       },
       {
         "year": 3,
-        "teachings": [
-          {
-            "$ref": "teachings.json#/3/teachings?filter=id&value=informatica"
-          }
-        ]
+        "chat": "t.me/joinchat/jTyZ03cqDRliOTY0",
+        "teachings": {
+          "mandatory": [
+            "basi-di-dati",
+            "introduzione-apprendimento-automatico",
+            "ingegneria-del-software",
+            "fondamenti-di-cybersecurity",
+            "informatica-teorica"
+          ],
+          "electives": [
+            "laboratorio-di-applicazioni-mobili",
+            "metodi-logici-per-linformatica",
+            "progetto-di-sistemi-virtuali",
+            "strategia-aziendale",
+            "storia-informatica-e-dei-dispositivi-di-calcolo",
+            "fisica",
+            "laboratorio-di-cybersecurity"
+          ]
+        }
       }
     ]
   },
@@ -34,30 +60,50 @@
     "id": "ingegneria",
     "name": "Ingegneria Informatica",
     "icon": "👨‍🔧",
+    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "years": [
       {
         "year": 1,
-        "teachings": [
-          {
-            "$ref": "teachings.json#/1/teachings?filter=id&value=ingegneria"
-          }
-        ]
+        "teachings": {
+          "mandatory": [
+            "ing-fondamenti-di-inforamtica-1-t",
+            "ing-analisi-matematica-1-t",
+            "ing-algebra-e-geometria-t",
+            "ing-fondamenti-di-informatica-2-t",
+            "ing-analisi-matematica-2-t",
+            "ing-reti-logiche-t"
+          ]
+        }
       },
       {
         "year": 2,
-        "teachings": [
-          {
-            "$ref": "teachings.json#/2/teachings?filter=id&value=ingegneria"
-          }
-        ]
+        "teachings": {
+          "mandatory": [
+            "ing-matematica-applicata-t",
+            "ing-calcolatori-elettronici-t",
+            "ing-fisica-generale-t",
+            "ing-sistemi-informativi-t",
+            "ing-sistemi-operativi-t",
+            "ing-fondamenti-di-telecomunicazioni-t",
+            "ing-economia-e-organizzazione-aziendale-t",
+            "ing-elettrotecnica-t"
+          ]
+        }
       },
       {
         "year": 3,
-        "teachings": [
-          {
-            "$ref": "teachings.json#/3/teachings?filter=id&value=ingegneria"
-          }
-        ]
+        "teachings": {
+          "mandatory": [
+            "ing-reti-di-calcolatori-t",
+            "ing-elettronica-t",
+            "ing-controlli-automatici-t",
+            "ing-tecnologie-web-t"
+          ],
+          "electives": [
+            "ing-laboratorio-sicurezza-informatica-t",
+            "ing-laboratorio-amm-sistemi-t",
+          ]
+        }
       }
     ]
   },
@@ -68,11 +114,28 @@
     "years": [
       {
         "year": 1,
-        "teachings": [
-          {
-            "$ref": "teachings.json#/1/teachings?filter=id&value=informatica-magistrale"
-          }
-        ]
+        "teachings": {
+          "mandatory": [
+            "usability-e-user-experience-design",
+            "complementi-di-linguaggi-di-programmazione",
+            "complementi-di-basi-di-dati",
+            "intelligenza-artificiale"
+          ],
+          "electives": [
+            "digital-forensics",
+            "decision-making-with-constraint-programming",
+            "ingegneria-del-software-orientata-ai-servizi",
+            "simulazione-di-sistemi",
+            "modelli-e-sistemi-concorrenti",
+            "computer-graphics",
+            "matematica-computazionale",
+            "modelli-probabilistici",
+            "sistemi-context-aware",
+            "fisica-dei-sistemi-complessi",
+            "fondamenti-logici-informatica",
+            "didattica-informatica"
+          ]
+        }
       }
     ]
   },
@@ -83,11 +146,11 @@
     "years": [
       {
         "year": 1,
-        "teachings": [
-          {
-            "$ref": "teachings.json#/1/teachings?filter=id&value=ingegneria-e-scienze-informatiche-magistrale"
-          }
-        ]
+        "teachings": {
+          "mandatory": [
+            "isi-programmazione-concorrente-e-distribuita"
+          ]
+        }
       }
     ]
   },
@@ -98,17 +161,18 @@
     "years": [
       {
         "year": 1,
-        "teachings": [
-          {
-            "$ref": "teachings.json#/1/teachings?filter=id&value=artificial-intelligence"
-          }
-        ]
+        "teachings": {
+          "mandatory": [
+            "deep-learning"
+          ]
+        }
       }
     ]
   },
   {
     "id": "lab",
     "name": "Laboratori fra Pari",
-    "icon": "🧪"
+    "icon": "🧪",
+    "teachings": "lab"
   }
 ]

@@ -1,409 +1,400 @@
 [
 	{
-		"year": 1,
-		"teachings": [
-			{
-				"id": "informatica",
-				"name": "Architettura degli elaboratori",
-				"url": "architettura-degli-elaboratori",
-				"chat": "t.me/joinchat/kXM-_CadypQwOGVk"
-			},
-			{
-				"id": "informatica",
-				"name": "Logica per l'informatica",
-				"url": "logica-per-informatica",
-				"chat": "t.me/joinchat/HEBiPjOx_SpmYzY0"
-			},
-			{
-				"id": "informatica",
-				"name": "Programmazione",
-				"url": "programmazione",
-				"chat": "t.me/joinchat/z1kz0BRjFr8zYjI0"
-			},
-			{
-				"id": "informatica",
-				"name": "Algebra e geometria",
-				"url": "algebra-e-geometria",
-				"chat": "t.me/joinchat/m5fn6ZffZvk0NGZk"
-			},
-			{
-				"id": "informatica",
-				"name": "Algoritmi e strutture dati",
-				"url": "algoritmi-e-strutture-di-dati",
-				"chat": "t.me/joinchat/wSafC8l9ul1iNTE8"
-			},
-			{
-				"id": "informatica",
-				"name": "Analisi matematica",
-				"url": "analisi-matematica",
-				"chat": "t.me/joinchat/60_5FO9onfo4YmJk"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Fondamenti di informatica 1",
-				"url": "ing-fondamenti-di-informatica-1-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Analisi 1",
-				"url": "ing-analisi-matematica-1-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Algebra e geometria",
-				"url": "ing-algebra-e-geometria-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Fondamenti di informatica 2",
-				"url": "ing-fondamenti-di-informatica-2-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Analisi 2",
-				"url": "ing-analisi-matematica-2-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Reti logiche",
-				"url": "ing-reti-logiche-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Usability e user experience design",
-				"url": "usability-e-user-experience-design",
-				"chat": "t.me/uux_unibo"
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Complementi di linguaggi di programmazione",
-				"url": "complementi-di-linguaggi-di-programmazione",
-				"chat": "t.me/CLP_unibo"
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Complementi di basi di dati",
-				"url": "complementi-di-basi-di-dati",
-				"chat": "t.me/cdb_unibo"
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Intelligenza artificiale",
-				"url": "intelligenza-artificiale",
-				"chat": "t.me/ai_unibo"
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Digital forensics",
-				"url": "digital-forensics",
-				"chat": "t.me/dforensics_unibo",
-				"optional": true
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Decision making with constraint programming",
-				"url": "decision-making-with-constraint-programming",
-				"chat": "t.me/CP_unibo",
-				"optional": true
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Ingegneria del software orientata ai servizi",
-				"url": "ingegneria-del-software-orientata-ai-servizi",
-				"chat": "t.me/ISOS_unibo",
-				"optional": true
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Simulazione di sistemi",
-				"url": "simulazione-di-sistemi",
-				"chat": "t.me/dfw4FnUAFEE3MWQ0",
-				"optional": true
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Modelli e sistemi concorrenti",
-				"url": "modelli-e-sistemi-concorrenti",
-				"chat": "t.me/MSC_unibo",
-				"optional": true
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Computer graphics",
-				"url": "computer-graphics",
-				"chat": "t.me/graphics_unibo",
-				"optional": true
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Matematica computazionale",
-				"url": "matematica-computazionale",
-				"chat": "t.me/matcomp_unibo",
-				"optional": true
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Modelli probabilistici",
-				"url": "modelli-probabilistici",
-				"chat": "t.me/modprob_unibo",
-				"optional": true
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Sistemi context aware",
-				"url": "sistemi-context-aware",
-				"chat": "t.me/SCA_unibo",
-				"optional": true
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Fisica dei sistemi complessi",
-				"url": "fisica-dei-sistemi-complessi",
-				"chat": "t.me/unibo_fisica_sistemi_complessi",
-				"optional": true
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Fondamenti logici dell'informatica",
-				"url": "fondamenti-logici-informatica",
-				"chat": "t.me/fondamenti_unibo",
-				"optional": true
-			},
-			{
-				"id": "informatica-magistrale",
-				"name": "Didattica dell'informatica",
-				"url": "didattica-informatica",
-				"chat": "t.me/didatticainfo_unibo",
-				"optional": true
-			},
-			{
-				"id": "ingegneria-e-scienze-informatiche-magistrale",
-				"name": "Programmazione Concorrente e Distribuita",
-				"url": "isi-programmazione-concorrente-e-distribuita",
-				"chat": ""
-			},
-			{
-				"id": "artificial-intelligence",
-				"name": "Deep Learning",
-				"url": "deep-learning",
-				"chat": "t.me/+3XKIOM3Lnh1kNTM0"
-			}
-		]
+		"degree": "lab",
+		"name": "Laboratori fra Pari",
+		"url": "lab",
+		"chat": "t.me/admstaff_Chat"
 	},
 	{
-		"year": 2,
-		"teachings": [
-			{
-				"id": "informatica",
-				"name": "Calcolo numerico",
-				"url": "calcolo-numerico",
-				"chat": "t.me/joinchat/h1lypfBFdEZkYzFk"
-			},
-			{
-				"id": "informatica",
-				"name": "Ottimizzazione combinatoria",
-				"url": "ottimizzazione-combinatoria",
-				"chat": "t.me/joinchat/klw79l5tkPM1NWQ0"
-			},
-			{
-				"id": "informatica",
-				"name": "Calcolo delle probabilità e statistica",
-				"url": "calcolo-delle-probabilita-e-statistica",
-				"chat": "t.me/+j7GRbdJlwPExYzc0"
-			},
-			{
-				"id": "informatica",
-				"name": "Tecnologie web",
-				"url": "tecnologie-web",
-				"chat": "t.me/+nwEQesjR6FRmYzk0"
-			},
-			{
-				"id": "informatica",
-				"name": "Linguaggi di programmazione",
-				"url": "linguaggi-di-programmazione",
-				"chat": "t.me/joinchat/4v-08oT6QWk0ZmM8"
-			},
-			{
-				"id": "informatica",
-				"name": "Reti di calcolatori",
-				"url": "reti-di-calcolatori",
-				"chat": "t.me/joinchat/Sw2Ykp0-0mM1Zjdk"
-			},
-			{
-				"id": "informatica",
-				"name": "Sistemi operativi",
-				"url": "sistemi-operativi",
-				"chat": "t.me/joinchat/2hUcGLfY7Gc2MTA8"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Matematica applicata",
-				"url": "ing-matematica-applicata-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Calcolatori elettronici",
-				"url": "ing-calcolatori-elettronici-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Fisica generale",
-				"url": "ing-fisica-generale-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Sistemi informativi",
-				"url": "ing-sistemi-informativi-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Sistemi operativi",
-				"url": "ing-sistemi-operativi-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Fondamenti di telecomunicazioni",
-				"url": "ing-fondamenti-di-telecomunicazioni-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Economia e organizzazione aziendale",
-				"url": "ing-economia-e-organizzazione-aziendale-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Elettrotecnica",
-				"url": "ing-elettrotecnica-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			}
-		]
+		"degree": "informatica",
+		"name": "Architettura degli elaboratori",
+		"url": "architettura-degli-elaboratori",
+		"chat": "t.me/joinchat/kXM-_CadypQwOGVk"
 	},
 	{
-		"year": 3,
-		"teachings": [
-			{
-				"id": "informatica",
-				"name": "Basi di dati",
-				"url": "basi-di-dati",
-				"chat": "t.me/datidibasi"
-			},
-			{
-				"id": "informatica",
-				"name": "Ingegneria del software",
-				"url": "ingegneria-del-software",
-				"chat": "t.me/ingegneriaSWunibo"
-			},
-			{
-				"id": "informatica",
-				"name": "Introduzione all'apprendimento automatico",
-				"url": "introduzione-apprendimento-automatico",
-				"chat": "t.me/appr_auto"
-			},
-			{
-				"id": "informatica",
-				"name": "Fondamenti di cybersecurity",
-				"url": "fondamenti-di-cybersecurity",
-				"chat": "t.me/+_NRNOm34gOcxZTQ0"
-			},
-			{
-				"id": "informatica",
-				"name": "Informatica teorica",
-				"url": "informatica-teorica",
-				"chat": "t.me/infoteorica"
-			},
-			{
-				"id": "informatica",
-				"name": "Metodi logici per la filosofia",
-				"url": "metodi-logici-per-la-filosofia",
-				"chat": "t.me/unibologica2",
-				"optional": true
-			},
-			{
-				"id": "informatica",
-				"name": "Laboratorio di applicazioni mobili",
-				"url": "laboratorio-di-applicazioni-mobili",
-				"chat": "t.me/+kGgOP9VgHotlMDg8",
-				"optional": true
-			},
-			{
-				"id": "informatica",
-				"name": "Strategia aziendale",
-				"url": "strategia-aziendale",
-				"chat": "t.me/+DmlZ4Q31uTQ5YTE0",
-				"optional": true
-			},
-			{
-				"id": "informatica",
-				"name": "Progetto di sistemi virtuali",
-				"url": "progetto-di-sistemi-virtuali",
-				"chat": "t.me/p_sis_virt",
-				"optional": true
-			},
-			{
-				"id": "informatica",
-				"name": "Storia dell'informatica e dei dispositivi di calcolo",
-				"url": "storia-informatica-e-dei-dispositivi-di-calcolo",
-				"chat": "t.me/+82Kca29dpGFiMmY0",
-				"optional": true
-			},
-			{
-				"id": "informatica",
-				"name": "Fisica",
-				"url": "fisica",
-				"chat": "t.me/joinchat/EagakhBfGx7hcGXuj4uvBA",
-				"optional": true
-			},
-			{
-				"id": "ingegneria",
-				"name": "Reti di calcolatori",
-				"url": "ing-reti-di-calcolatori-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Controlli automatici",
-				"url": "ing-controlli-automatici-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Tecnologie web",
-				"url": "ing-tecnologie-web-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Elettronica",
-				"url": "ing-elettronica-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
-			},
-			{
-				"id": "ingegneria",
-				"name": "Amministazione di sistemi",
-				"url": "ing-laboratorio-amm-sistemi-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-				"optional": true
-			},
-			{
-				"id": "ingegneria",
-				"name": "Laboratorio di sicurezza informatica",
-				"url": "ing-laboratorio-sicurezza-informatica-t",
-				"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-				"optional": true
-			}
-		]
+		"degree": "informatica",
+		"name": "Logica per l'informatica",
+		"url": "logica-per-informatica",
+		"chat": "t.me/joinchat/HEBiPjOx_SpmYzY0"
+	},
+	{
+		"degree": "informatica",
+		"name": "Programmazione",
+		"url": "programmazione",
+		"chat": "t.me/joinchat/z1kz0BRjFr8zYjI0"
+	},
+	{
+		"degree": "informatica",
+		"name": "Algebra e geometria",
+		"url": "algebra-e-geometria",
+		"chat": "t.me/joinchat/m5fn6ZffZvk0NGZk"
+	},
+	{
+		"degree": "informatica",
+		"name": "Algoritmi e strutture dati",
+		"url": "algoritmi-e-strutture-di-dati",
+		"chat": "t.me/joinchat/wSafC8l9ul1iNTE8"
+	},
+	{
+		"degree": "informatica",
+		"name": "Analisi matematica",
+		"url": "analisi-matematica",
+		"chat": "t.me/joinchat/60_5FO9onfo4YmJk"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Fondamenti di informatica 1",
+		"url": "ing-fondamenti-di-informatica-1-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Analisi 1",
+		"url": "ing-analisi-matematica-1-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Algebra e geometria",
+		"url": "ing-algebra-e-geometria-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Fondamenti di informatica 2",
+		"url": "ing-fondamenti-di-informatica-2-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Analisi 2",
+		"url": "ing-analisi-matematica-2-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Reti logiche",
+		"url": "ing-reti-logiche-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Usability e user experience design",
+		"url": "usability-e-user-experience-design",
+		"chat": "t.me/uux_unibo"
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Complementi di linguaggi di programmazione",
+		"url": "complementi-di-linguaggi-di-programmazione",
+		"chat": "t.me/CLP_unibo"
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Complementi di basi di dati",
+		"url": "complementi-di-basi-di-dati",
+		"chat": "t.me/cdb_unibo"
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Intelligenza artificiale",
+		"url": "intelligenza-artificiale",
+		"chat": "t.me/ai_unibo"
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Digital forensics",
+		"url": "digital-forensics",
+		"chat": "t.me/dforensics_unibo",
+		"optional": true
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Decision making with constraint programming",
+		"url": "decision-making-with-constraint-programming",
+		"chat": "t.me/CP_unibo",
+		"optional": true
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Ingegneria del software orientata ai servizi",
+		"url": "ingegneria-del-software-orientata-ai-servizi",
+		"chat": "t.me/ISOS_unibo",
+		"optional": true
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Simulazione di sistemi",
+		"url": "simulazione-di-sistemi",
+		"chat": "t.me/dfw4FnUAFEE3MWQ0",
+		"optional": true
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Modelli e sistemi concorrenti",
+		"url": "modelli-e-sistemi-concorrenti",
+		"chat": "t.me/MSC_unibo",
+		"optional": true
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Computer graphics",
+		"url": "computer-graphics",
+		"chat": "t.me/graphics_unibo",
+		"optional": true
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Matematica computazionale",
+		"url": "matematica-computazionale",
+		"chat": "t.me/matcomp_unibo",
+		"optional": true
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Modelli probabilistici",
+		"url": "modelli-probabilistici",
+		"chat": "t.me/modprob_unibo",
+		"optional": true
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Sistemi context aware",
+		"url": "sistemi-context-aware",
+		"chat": "t.me/SCA_unibo",
+		"optional": true
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Fisica dei sistemi complessi",
+		"url": "fisica-dei-sistemi-complessi",
+		"chat": "t.me/unibo_fisica_sistemi_complessi",
+		"optional": true
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Fondamenti logici dell'informatica",
+		"url": "fondamenti-logici-informatica",
+		"chat": "t.me/fondamenti_unibo",
+		"optional": true
+	},
+	{
+		"degree": "informatica-magistrale",
+		"name": "Didattica dell'informatica",
+		"url": "didattica-informatica",
+		"chat": "t.me/didatticainfo_unibo",
+		"optional": true
+	},
+	{
+		"degree": "ingegneria-e-scienze-informatiche-magistrale",
+		"name": "Programmazione Concorrente e Distribuita",
+		"url": "isi-programmazione-concorrente-e-distribuita",
+		"chat": ""
+	},
+	{
+		"degree": "artificial-intelligence",
+		"name": "Deep Learning",
+		"url": "deep-learning",
+		"chat": "t.me/+3XKIOM3Lnh1kNTM0"
+	},
+	{
+		"degree": "informatica",
+		"name": "Calcolo numerico",
+		"url": "calcolo-numerico",
+		"chat": "t.me/joinchat/h1lypfBFdEZkYzFk"
+	},
+	{
+		"degree": "informatica",
+		"name": "Ottimizzazione combinatoria",
+		"url": "ottimizzazione-combinatoria",
+		"chat": "t.me/joinchat/klw79l5tkPM1NWQ0"
+	},
+	{
+		"degree": "informatica",
+		"name": "Calcolo delle probabilità e statistica",
+		"url": "calcolo-delle-probabilita-e-statistica",
+		"chat": "t.me/+j7GRbdJlwPExYzc0"
+	},
+	{
+		"degree": "informatica",
+		"name": "Tecnologie web",
+		"url": "tecnologie-web",
+		"chat": "t.me/+nwEQesjR6FRmYzk0"
+	},
+	{
+		"degree": "informatica",
+		"name": "Linguaggi di programmazione",
+		"url": "linguaggi-di-programmazione",
+		"chat": "t.me/joinchat/4v-08oT6QWk0ZmM8"
+	},
+	{
+		"degree": "informatica",
+		"name": "Reti di calcolatori",
+		"url": "reti-di-calcolatori",
+		"chat": "t.me/joinchat/Sw2Ykp0-0mM1Zjdk"
+	},
+	{
+		"degree": "informatica",
+		"name": "Sistemi operativi",
+		"url": "sistemi-operativi",
+		"chat": "t.me/joinchat/2hUcGLfY7Gc2MTA8"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Matematica applicata",
+		"url": "ing-matematica-applicata-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Calcolatori elettronici",
+		"url": "ing-calcolatori-elettronici-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Fisica generale",
+		"url": "ing-fisica-generale-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Sistemi informativi",
+		"url": "ing-sistemi-informativi-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Sistemi operativi",
+		"url": "ing-sistemi-operativi-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Fondamenti di telecomunicazioni",
+		"url": "ing-fondamenti-di-telecomunicazioni-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Economia e organizzazione aziendale",
+		"url": "ing-economia-e-organizzazione-aziendale-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Elettrotecnica",
+		"url": "ing-elettrotecnica-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "informatica",
+		"name": "Basi di dati",
+		"url": "basi-di-dati",
+		"chat": "t.me/datidibasi"
+	},
+	{
+		"degree": "informatica",
+		"name": "Ingegneria del software",
+		"url": "ingegneria-del-software",
+		"chat": "t.me/ingegneriaSWunibo"
+	},
+	{
+		"degree": "informatica",
+		"name": "Introduzione all'apprendimento automatico",
+		"url": "introduzione-apprendimento-automatico",
+		"chat": "t.me/appr_auto"
+	},
+	{
+		"degree": "informatica",
+		"name": "Fondamenti di cybersecurity",
+		"url": "fondamenti-di-cybersecurity",
+		"chat": "t.me/+_NRNOm34gOcxZTQ0"
+	},
+	{
+		"degree": "informatica",
+		"name": "Informatica teorica",
+		"url": "informatica-teorica",
+		"chat": "t.me/infoteorica"
+	},
+	{
+		"degree": "informatica",
+		"name": "Metodi logici per la filosofia",
+		"url": "metodi-logici-per-la-filosofia",
+		"chat": "t.me/unibologica2",
+		"optional": true
+	},
+	{
+		"degree": "informatica",
+		"name": "Laboratorio di applicazioni mobili",
+		"url": "laboratorio-di-applicazioni-mobili",
+		"chat": "t.me/+kGgOP9VgHotlMDg8",
+		"optional": true
+	},
+	{
+		"degree": "informatica",
+		"name": "Strategia aziendale",
+		"url": "strategia-aziendale",
+		"chat": "t.me/+DmlZ4Q31uTQ5YTE0",
+		"optional": true
+	},
+	{
+		"degree": "informatica",
+		"name": "Progetto di sistemi virtuali",
+		"url": "progetto-di-sistemi-virtuali",
+		"chat": "t.me/p_sis_virt",
+		"optional": true
+	},
+	{
+		"degree": "informatica",
+		"name": "Storia dell'informatica e dei dispositivi di calcolo",
+		"url": "storia-informatica-e-dei-dispositivi-di-calcolo",
+		"chat": "t.me/+82Kca29dpGFiMmY0",
+		"optional": true
+	},
+	{
+		"degree": "informatica",
+		"name": "Fisica",
+		"url": "fisica",
+		"chat": "t.me/joinchat/EagakhBfGx7hcGXuj4uvBA",
+		"optional": true
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Reti di calcolatori",
+		"url": "ing-reti-di-calcolatori-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Controlli automatici",
+		"url": "ing-controlli-automatici-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Tecnologie web",
+		"url": "ing-tecnologie-web-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Elettronica",
+		"url": "ing-elettronica-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA"
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Amministazione di sistemi",
+		"url": "ing-laboratorio-amm-sistemi-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
+		"optional": true
+	},
+	{
+		"degree": "ingegneria",
+		"name": "Laboratorio di sicurezza informatica",
+		"url": "ing-laboratorio-sicurezza-informatica-t",
+		"chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
+		"optional": true
 	}
 ]
