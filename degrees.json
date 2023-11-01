@@ -172,11 +172,8 @@
   {
     "id": "lab",
     "name": "Laboratori fra Pari",
+    "chat": "t.me/admstaff_Chat",
     "icon": "🧪",
-    "teachings": {
-      "mandatory": [
-        "lab"
-      ]
-    }
+    "url": "lab"
   }
 ]

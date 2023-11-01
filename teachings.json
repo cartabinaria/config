@@ -1,11 +1,5 @@
 [
 	{
-		"degree": "lab",
-		"name": "Laboratori fra Pari",
-		"url": "lab",
-		"chat": "t.me/admstaff_Chat"
-	},
-	{
 		"degree": "informatica",
 		"name": "Architettura degli elaboratori",
 		"url": "architettura-degli-elaboratori",
