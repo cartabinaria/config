@@ -164,7 +164,8 @@
         "year": 1,
         "teachings": {
           "mandatory": [
-            "deep-learning"
+            "deep-learning",
+            "image-processing-and-computer-vision"
           ]
         }
       }
