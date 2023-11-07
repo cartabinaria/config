@@ -148,9 +148,7 @@
       {
         "year": 1,
         "teachings": {
-          "mandatory": [
-            "isi-programmazione-concorrente-e-distribuita"
-          ]
+          "mandatory": ["isi-programmazione-concorrente-e-distribuita"]
         }
       }
     ]
@@ -163,10 +161,7 @@
       {
         "year": 1,
         "teachings": {
-          "mandatory": [
-            "deep-learning",
-            "image-processing-and-computer-vision"
-          ]
+          "mandatory": ["deep-learning", "image-processing-and-computer-vision"]
         }
       }
     ]
