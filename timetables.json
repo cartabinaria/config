@@ -2,61 +2,82 @@
   "l_informatica": {
     "course": "Informatica",
     "type": "laurea",
-    "name": "informatica"
+    "name": "informatica",
+    "title": "Lezioni di %s di %d anno di giorno %s",
+    "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "l_informaticamanagement": {
     "course": "Informatica per il Management",
     "type": "laurea",
-    "name": "InformaticaManagement"
+    "name": "InformaticaManagement",
+    "title": "Lezioni di %s di %d anno di giorno %s",
+    "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "l_ingegneriainformatica": {
     "course": "Ingegneria Informatica",
     "type": "laurea",
-    "name": "ingegneriainformatica"
+    "name": "ingegneriainformatica",
+    "title": "Lezioni di %s di %d anno di giorno %s",
+    "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "l_ingegneriascienceinformatiche": {
     "course": "Ingegneria e Scienze Informatiche",
     "type": "laurea",
-    "name": "IngegneriaScienzeInformatiche"
+    "name": "IngegneriaScienzeInformatiche",
+    "title": "Lezioni di %s di %d anno di giorno %s",
+    "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_informatica_software_techniques": {
     "course": "Informatica magistrale - Tecniche del software",
     "type": "magistrale",
     "name": "informatica",
-    "curricula": "A58-000"
+    "curricula": "A58-000",
+    "title": "Lezioni di %s di %d anno di giorno %s",
+    "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_informatica_management": {
     "course": "Informatica magistrale - Informatica per il management",
     "type": "magistrale",
     "name": "informatica",
-    "curricula": "991-000"
+    "curricula": "991-000",
+    "title": "Lezioni di %s di %d anno di giorno %s",
+    "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_informatica_systems_and_networks": {
     "course": "Informatica magistrale - Sistemi e reti",
     "type": "magistrale",
     "name": "informatica",
-    "curricula": "992-000"
+    "curricula": "992-000",
+    "title": "Lezioni di %s di %d anno di giorno %s",
+    "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_ingegneriascienzeinformatiche": {
     "course": "Ingegneria e Scienze Informatiche Magistrale",
     "type": "magistrale",
     "name": "IngegneriaScienzeInformatiche",
-    "curricula": "C17-000"
+    "curricula": "C17-000",
+    "title": "Lezioni di %s di %d anno di giorno %s",
+    "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_intelligent_systems": {
     "course": "Intelligent Embedded Systems",
     "type": "magistrale",
     "name": "IngegneriaScienzeInformatiche",
-    "curricula": "000-000"
+    "curricula": "000-000",
+    "title": "Lezioni di %s di %d anno di giorno %s",
+    "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_ingegneriainformatica": {
     "course": "Ingegneria Informatica Magistrale",
     "type": "magistrale",
-    "name": "ingegneriainformatica"
+    "name": "ingegneriainformatica",
+    "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_ai": {
     "course": "Artificial Intelligence",
     "type": "2cycle",
-    "name": "artificial-intelligence"
+    "name": "artificial-intelligence",
+    "title": "Lezioni di %s di %d anno di giorno %s",
+    "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   }
 }
