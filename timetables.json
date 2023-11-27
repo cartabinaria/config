@@ -3,28 +3,28 @@
     "course": "Informatica",
     "type": "laurea",
     "name": "informatica",
-    "title": "Lezioni di %s di %d anno di giorno %s",
+    "title": " <b>Lezioni di %s di (%d\u00b0 anno) di giorno %s</b>",
     "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "l_informaticamanagement": {
     "course": "Informatica per il Management",
     "type": "laurea",
     "name": "InformaticaManagement",
-    "title": "Lezioni di %s di %d anno di giorno %s",
+    "title": " <b>Lezioni di %s di (%d\u00b0 anno) di giorno %s</b>",
     "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "l_ingegneriainformatica": {
     "course": "Ingegneria Informatica",
     "type": "laurea",
     "name": "ingegneriainformatica",
-    "title": "Lezioni di %s di %d anno di giorno %s",
+    "title": " <b>Lezioni di %s di (%d\u00b0 anno) di giorno %s</b>",
     "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "l_ingegneriascienceinformatiche": {
     "course": "Ingegneria e Scienze Informatiche",
     "type": "laurea",
     "name": "IngegneriaScienzeInformatiche",
-    "title": "Lezioni di %s di %d anno di giorno %s",
+    "title": " <b>Lezioni di %s di (%d\u00b0 anno) di giorno %s</b>",
     "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_informatica_software_techniques": {
@@ -32,7 +32,7 @@
     "type": "magistrale",
     "name": "informatica",
     "curricula": "A58-000",
-    "title": "Lezioni di %s di %d anno di giorno %s",
+    "title": " <b>Lezioni di %s di (%d\u00b0 anno) di giorno %s</b>",
     "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_informatica_management": {
@@ -40,7 +40,7 @@
     "type": "magistrale",
     "name": "informatica",
     "curricula": "991-000",
-    "title": "Lezioni di %s di %d anno di giorno %s",
+    "title": " <b>Lezioni di %s di (%d\u00b0 anno) di giorno %s</b>",
     "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_informatica_systems_and_networks": {
@@ -48,7 +48,7 @@
     "type": "magistrale",
     "name": "informatica",
     "curricula": "992-000",
-    "title": "Lezioni di %s di %d anno di giorno %s",
+    "title": " <b>Lezioni di %s di (%d\u00b0 anno) di giorno %s</b>",
     "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_ingegneriascienzeinformatiche": {
@@ -56,7 +56,7 @@
     "type": "magistrale",
     "name": "IngegneriaScienzeInformatiche",
     "curricula": "C17-000",
-    "title": "Lezioni di %s di %d anno di giorno %s",
+    "title": " <b>Lezioni di %s di (%d\u00b0 anno) di giorno %s</b>",
     "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_intelligent_systems": {
@@ -64,20 +64,21 @@
     "type": "magistrale",
     "name": "IngegneriaScienzeInformatiche",
     "curricula": "000-000",
-    "title": "Lezioni di %s di %d anno di giorno %s",
+    "title": " <b>Lezioni di %s di (%d\u00b0 anno) di giorno %s</b>",
     "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_ingegneriainformatica": {
     "course": "Ingegneria Informatica Magistrale",
     "type": "magistrale",
     "name": "ingegneriainformatica",
+    "title": " <b>Lezioni di %s di (%d\u00b0 anno) di giorno %s</b>",
     "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   },
   "lm_ai": {
     "course": "Artificial Intelligence",
     "type": "2cycle",
     "name": "artificial-intelligence",
-    "title": "Lezioni di %s di %d anno di giorno %s",
+    "title": " <b>Lezioni di %s di (%d\u00b0 anno) di giorno %s</b>",
     "fallbackText": "Non ci sono lezioni in questo giorno. SMETTILA DI PRESSARMI"
   }
 }
