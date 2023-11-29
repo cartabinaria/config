@@ -1,29 +1,17 @@
-[
-  {
-    "code": 8009,
-    "representatives": [
-      "flowerboi",
-      "Hamilnvt",
-      "KebabRicco",
-      "Tastier",
-      "flecarts"
-    ]
-  },
-  {
-    "code": 8014,
-    "representatives": []
-  },
-  {
-    "code": 9254,
-    "representatives": []
-  },
-  {
-    "code": 8615,
-    "representatives": []
-  },
-  {
-    "code": 5898,
-    "representatives": ["gabrigeno", "FedericaGrisendi", "SpookyPhone"]
-  }
-]
-
+{
+  "8009": [
+    "flowerboi",
+    "Hamilnvt",
+    "KebabRicco",
+    "Tastier",
+    "flecarts"
+  ],
+  "8014": [],
+  "9254": [],
+  "8615": [],
+  "5898": [
+    "gabrigeno",
+    "FedericaGrisendi",
+    "SpookyPhone"
+  ]
+}
