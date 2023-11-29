@@ -1,7 +1,7 @@
 [
   {
-    "codice": "8009",
-    "rappresentanti": [
+    "code": 8009,
+    "representatives": [
       "flowerboi",
       "Hamilnvt",
       "KebabRicco",
@@ -10,20 +10,20 @@
     ]
   },
   {
-    "codice": "8014",
-    "rappresentanti": []
+    "code": 8014,
+    "representatives": []
   },
   {
-    "codice": "9254",
-    "rappresentanti": []
+    "code": 9254,
+    "representatives": []
   },
   {
-    "codice": "8615",
-    "rappresentanti": []
+    "code": 8615,
+    "representatives": []
   },
   {
-    "codice": "5898",
-    "rappresentanti": ["gabrigeno", "FedericaGrisendi", "SpookyPhone"]
+    "code": 5898,
+    "representatives": ["gabrigeno", "FedericaGrisendi", "SpookyPhone"]
   }
 ]
 
