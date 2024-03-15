@@ -23,7 +23,7 @@ jobs:
 
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/csunibo/build-image:v0.2
+      image: ghcr.io/csunibo/build-image:new_statik
 
     steps:
       - uses: actions/checkout@v3
