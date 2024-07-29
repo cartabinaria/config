@@ -166,6 +166,7 @@
     "name": "Informatica per il Management",
     "code": "8014/000",
     "icon": "💻",
+    "chat": "t.me/unibo_info_manag",
     "teachings": [
       {
         "name": "ipim-architettura-di-internet",
@@ -271,20 +272,6 @@
         "name": "ipim-storia-politiche-digitale",
         "year": 3,
         "mandatory": false
-      }
-    ],
-    "years": [
-      {
-        "year": 1,
-        "chat": "t.me/unibo_info_manag"
-      },
-      {
-        "year": 2,
-        "chat": "t.me/unibo_info_manag"
-      },
-      {
-        "year": 3,
-        "chat": "t.me/unibo_info_manag"
       }
     ]
   },
@@ -508,6 +495,7 @@
     "name": "Ingegneria e Scienze Informatiche Magistrale",
     "code": "8614/000",
     "icon": "🥸",
+    "chat": "chat.whatsapp.com/BgwpLOTuBN543W4bjsOxnl",
     "teachings": [
       {
         "name": "isi-programmazione-concorrente-e-distribuita",
