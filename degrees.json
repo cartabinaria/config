@@ -272,6 +272,11 @@
         "name": "ipim-storia-politiche-digitale",
         "year": 3,
         "mandatory": false
+      },
+      {
+        "name": "logica-per-informatica",
+        "year": 3,
+        "mandatory": false
       }
     ]
   },

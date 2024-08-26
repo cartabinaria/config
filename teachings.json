@@ -553,7 +553,7 @@
     "url": "ipim-finanza-aziendale",
     "chat": "t.me/unibo_info_manag/6184",
     "website": "320664",
-    "professors": ["emilio.tomasini"]
+    "professors": ["gianluca.tassinari2"]
   },
   {
     "name": "Metodi Numerici per il Calcolo",
@@ -623,7 +623,7 @@
     "url": "ipim-algoritmi-e-strutture-dati",
     "chat": "t.me/unibo_info_manag/6230",
     "website": "320656",
-    "professors": ["lorenzo.donatiello", "daviderossi", "jocelyne.elias"]
+    "professors": ["daviderossi", "jocelyne.elias"]
   },
   {
     "name": "Basi di Dati",
