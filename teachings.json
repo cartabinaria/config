@@ -680,5 +680,12 @@
     "chat": "t.me/+YDegI0VHpC1lOTVk",
     "website": "479059",
     "professors": ["claudio.sacerdoticoen"]
+  },
+    {
+    "name": "Computer Vision",
+    "url": "computer-vision",
+    "chat": "",
+    "website": "469885",
+    "professors": ["giuseppe.lisanti"]
   }
 ]
