@@ -492,6 +492,10 @@
       {
         "name": "emerging-programming-paradigms",
         "mandatory": false
+      },
+      {
+        "name": "computer-vision",
+        "mandatory": false
       }
     ]
   },

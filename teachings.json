@@ -4,238 +4,315 @@
     "url": "architettura-degli-elaboratori",
     "chat": "t.me/joinchat/kXM-_CadypQwOGVk",
     "website": "350960",
-    "professors": ["ivan.lanese"]
+    "professors": [
+      "ivan.lanese"
+    ]
   },
   {
     "name": "Logica per l'informatica",
     "url": "logica-per-informatica",
     "chat": "t.me/joinchat/HEBiPjOx_SpmYzY0",
     "website": "455095",
-    "professors": ["claudio.sacerdoticoen"]
+    "professors": [
+      "claudio.sacerdoticoen"
+    ]
   },
   {
     "name": "Programmazione",
     "url": "programmazione",
     "chat": "t.me/joinchat/z1kz0BRjFr8zYjI0",
     "website": "320574",
-    "professors": ["cosimo.laneve"]
+    "professors": [
+      "cosimo.laneve"
+    ]
   },
   {
     "name": "Algebra e geometria",
     "url": "algebra-e-geometria",
     "chat": "t.me/joinchat/m5fn6ZffZvk0NGZk",
     "website": "366975",
-    "professors": ["marta.morigi"]
+    "professors": [
+      "marta.morigi"
+    ]
   },
   {
     "name": "Algoritmi e strutture dati",
     "url": "algoritmi-e-strutture-di-dati",
     "chat": "t.me/joinchat/wSafC8l9ul1iNTE8",
     "website": "350957",
-    "professors": ["gianluigi.zavattaro", "pietro.dilena"]
+    "professors": [
+      "gianluigi.zavattaro",
+      "pietro.dilena"
+    ]
   },
   {
     "name": "Analisi matematica",
     "url": "analisi-matematica",
     "chat": "t.me/joinchat/60_5FO9onfo4YmJk",
     "website": "320573",
-    "professors": ["marco.mughetti", "daniele.morbidelli"]
+    "professors": [
+      "marco.mughetti",
+      "daniele.morbidelli"
+    ]
   },
   {
     "name": "Fondamenti di informatica T-1",
     "url": "ing-fondamenti-di-informatica-1-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "449442",
-    "professors": ["paola.mello", "federico.chesani"]
+    "professors": [
+      "paola.mello",
+      "federico.chesani"
+    ]
   },
   {
     "name": "Analisi matematica T-1",
     "url": "ing-analisi-matematica-1-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434699",
-    "professors": ["paolo.albano", "marco.mughetti"]
+    "professors": [
+      "paolo.albano",
+      "marco.mughetti"
+    ]
   },
   {
     "name": "Geometria e algebra T",
     "url": "ing-algebra-e-geometria-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434697",
-    "professors": ["patrizio.frosini"]
+    "professors": [
+      "patrizio.frosini"
+    ]
   },
   {
     "name": "Fondamenti di informatica T-2",
     "url": "ing-fondamenti-di-informatica-2-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434698",
-    "professors": ["enrico.denti", "roberta.calegari"]
+    "professors": [
+      "enrico.denti",
+      "roberta.calegari"
+    ]
   },
   {
     "name": "Analisi Matematica T-2",
     "url": "ing-analisi-matematica-2-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434693",
-    "professors": ["davide.guidetti"]
+    "professors": [
+      "davide.guidetti"
+    ]
   },
   {
     "name": "Reti logiche T",
     "url": "ing-reti-logiche-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434696",
-    "professors": ["samuele.salti"]
+    "professors": [
+      "samuele.salti"
+    ]
   },
   {
     "name": "Usability e user experience design",
     "url": "usability-e-user-experience-design",
     "chat": "t.me/uux_unibo",
     "website": "479019",
-    "professors": ["fabio.vitali"]
+    "professors": [
+      "fabio.vitali"
+    ]
   },
   {
     "name": "Complementi di linguaggi di programmazione",
     "url": "complementi-di-linguaggi-di-programmazione",
     "chat": "t.me/CLP_unibo",
     "website": "482040",
-    "professors": ["cosimo.laneve"]
+    "professors": [
+      "cosimo.laneve"
+    ]
   },
   {
     "name": "Complementi di basi di dati",
     "url": "complementi-di-basi-di-dati",
     "chat": "t.me/cdb_unibo",
     "website": "479021",
-    "professors": ["danilo.montesi"]
+    "professors": [
+      "danilo.montesi"
+    ]
   },
   {
     "name": "Intelligenza artificiale",
     "url": "intelligenza-artificiale",
     "chat": "t.me/ai_unibo",
     "website": "479022",
-    "professors": ["maurizio.gabbrielli", "stefano.zingaro"]
+    "professors": [
+      "maurizio.gabbrielli",
+      "stefano.zingaro"
+    ]
   },
   {
     "name": "Digital forensics",
     "url": "digital-forensics",
     "chat": "t.me/dforensics_unibo",
     "website": "479039",
-    "professors": ["alessandro.amoroso"]
+    "professors": [
+      "alessandro.amoroso"
+    ]
   },
   {
     "name": "Decision making with constraint programming",
     "url": "decision-making-with-constraint-programming",
     "chat": "t.me/CP_unibo",
     "website": "479038",
-    "professors": ["zeynep.kiziltan"]
+    "professors": [
+      "zeynep.kiziltan"
+    ]
   },
   {
     "name": "Ingegneria del software orientata ai servizi",
     "url": "ingegneria-del-software-orientata-ai-servizi",
     "chat": "t.me/ISOS_unibo",
     "website": "479037",
-    "professors": ["davide.rossi", "ivan.lanese"]
+    "professors": [
+      "davide.rossi",
+      "ivan.lanese"
+    ]
   },
   {
     "name": "Simulazione di sistemi",
     "url": "simulazione-di-sistemi",
     "chat": "t.me/dfw4FnUAFEE3MWQ0",
     "website": "479034",
-    "professors": ["lorenzo.donatiello"]
+    "professors": [
+      "lorenzo.donatiello"
+    ]
   },
   {
     "name": "Modelli e sistemi concorrenti",
     "url": "modelli-e-sistemi-concorrenti",
     "chat": "t.me/MSC_unibo",
     "website": "479035",
-    "professors": ["roberto.gorrieri"]
+    "professors": [
+      "roberto.gorrieri"
+    ]
   },
   {
     "name": "Computer graphics",
     "url": "computer-graphics",
     "chat": "t.me/graphics_unibo",
     "website": "479028",
-    "professors": ["giulio.casciola"]
+    "professors": [
+      "giulio.casciola"
+    ]
   },
   {
     "name": "Matematica computazionale",
     "url": "matematica-computazionale",
     "chat": "t.me/matcomp_unibo",
     "website": "479026",
-    "professors": ["giulia.spaletta"]
+    "professors": [
+      "giulia.spaletta"
+    ]
   },
   {
     "name": "Modelli probabilistici",
     "url": "modelli-probabilistici",
     "chat": "t.me/modprob_unibo",
     "website": "479025",
-    "professors": ["stefano.pagliarini"]
+    "professors": [
+      "stefano.pagliarini"
+    ]
   },
   {
     "name": "Sistemi context aware",
     "url": "sistemi-context-aware",
     "chat": "t.me/SCA_unibo",
     "website": "479036",
-    "professors": ["marco.difelice3"]
+    "professors": [
+      "marco.difelice3"
+    ]
   },
   {
     "name": "Fisica dei sistemi complessi",
     "url": "fisica-dei-sistemi-complessi",
     "chat": "t.me/unibo_fisica_sistemi_complessi",
     "website": "479024",
-    "professors": ["armando.bazzani"]
+    "professors": [
+      "armando.bazzani"
+    ]
   },
   {
     "name": "Fondamenti logici dell'informatica",
     "url": "fondamenti-logici-informatica",
     "chat": "t.me/fondamenti_unibo",
     "website": "479027",
-    "professors": ["claudio.sacerdoticoen", "fabio.zanasi"]
+    "professors": [
+      "claudio.sacerdoticoen",
+      "fabio.zanasi"
+    ]
   },
   {
     "name": "Didattica dell'informatica",
     "url": "didattica-informatica",
     "chat": "t.me/didatticainfo_unibo",
     "website": "479040",
-    "professors": ["renzo.davoli", "michael.lodi"]
+    "professors": [
+      "renzo.davoli",
+      "michael.lodi"
+    ]
   },
   {
     "name": "Programmazione Concorrente e Distribuita",
     "url": "isi-programmazione-concorrente-e-distribuita",
     "chat": "",
     "website": "412598",
-    "professors": ["alessandro.ricci"]
+    "professors": [
+      "alessandro.ricci"
+    ]
   },
   {
     "name": "Deep Learning",
     "url": "deep-learning",
     "chat": "t.me/+3XKIOM3Lnh1kNTM0",
     "website": "491909",
-    "professors": ["andrea.asperti"]
+    "professors": [
+      "andrea.asperti"
+    ]
   },
   {
     "name": "Calcolo numerico",
     "url": "calcolo-numerico",
     "chat": "t.me/+hh3s35MljfgwYTU0",
     "website": "320581",
-    "professors": ["elena.loli"]
+    "professors": [
+      "elena.loli"
+    ]
   },
   {
     "name": "Ottimizzazione combinatoria",
     "url": "ottimizzazione-combinatoria",
     "chat": "t.me/+44Dga6Nrfh03YzY0",
     "website": "460495",
-    "professors": ["ugo.dallago"]
+    "professors": [
+      "ugo.dallago"
+    ]
   },
   {
     "name": "Calcolo delle probabilità e statistica",
     "url": "calcolo-delle-probabilita-e-statistica",
     "chat": "t.me/+D_jbM0SQIBxiMmY0",
     "website": "320583",
-    "professors": ["elena.bandini7"]
+    "professors": [
+      "elena.bandini7"
+    ]
   },
   {
     "name": "Tecnologie web",
     "url": "tecnologie-web",
     "chat": "t.me/+nwEQesjR6FRmYzk0",
     "website": "436428",
-    "professors": ["fabio.vitali"]
+    "professors": [
+      "fabio.vitali"
+    ]
   },
   {
     "name": "Linguaggi di programmazione",
@@ -253,140 +330,182 @@
     "url": "reti-di-calcolatori",
     "chat": "t.me/+PnzVouieQLg1ODE0",
     "website": "455456",
-    "professors": ["luciano.bononi"]
+    "professors": [
+      "luciano.bononi"
+    ]
   },
   {
     "name": "Sistemi operativi",
     "url": "sistemi-operativi",
     "chat": "t.me/+nKtJo7UaqYA2MGZk",
     "website": "320578",
-    "professors": ["renzo.davoli"]
+    "professors": [
+      "renzo.davoli"
+    ]
   },
   {
     "name": "Matematica applicata T",
     "url": "ing-matematica-applicata-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434704",
-    "professors": ["francesca.brini"]
+    "professors": [
+      "francesca.brini"
+    ]
   },
   {
     "name": "Calcolatori elettronici T",
     "url": "ing-calcolatori-elettronici-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434701",
-    "professors": ["stefano.mattoccia"]
+    "professors": [
+      "stefano.mattoccia"
+    ]
   },
   {
     "name": "Fisica generale T",
     "url": "ing-fisica-generale-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434891",
-    "professors": ["lorenzo.rinaldi"]
+    "professors": [
+      "lorenzo.rinaldi"
+    ]
   },
   {
     "name": "Sistemi informativi T",
     "url": "ing-sistemi-informativi-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434702",
-    "professors": ["paolo.ciaccia"]
+    "professors": [
+      "paolo.ciaccia"
+    ]
   },
   {
     "name": "Sistemi operativi T",
     "url": "ing-sistemi-operativi-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "447114",
-    "professors": ["anna.ciampolini", "daniela.loreti"]
+    "professors": [
+      "anna.ciampolini",
+      "daniela.loreti"
+    ]
   },
   {
     "name": "Fondamenti di telecomunicazioni T",
     "url": "ing-fondamenti-di-telecomunicazioni-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434703",
-    "professors": ["carlo.caini"]
+    "professors": [
+      "carlo.caini"
+    ]
   },
   {
     "name": "Economia e organizzazione aziendale T",
     "url": "ing-economia-e-organizzazione-aziendale-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434707",
-    "professors": ["raffaele.mancuso"]
+    "professors": [
+      "raffaele.mancuso"
+    ]
   },
   {
     "name": "Elettrotecnica T",
     "url": "ing-elettrotecnica-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434705",
-    "professors": ["mattia.ricco"]
+    "professors": [
+      "mattia.ricco"
+    ]
   },
   {
     "name": "Basi di dati",
     "url": "basi-di-dati",
     "chat": "https://t.me/+0idUeMWNDlYxZTU0",
     "website": "443720",
-    "professors": ["danilo.montesi"]
+    "professors": [
+      "danilo.montesi"
+    ]
   },
   {
     "name": "Ingegneria del software",
     "url": "ingegneria-del-software",
     "chat": "t.me/ingegneriaSWunibo",
     "website": "443719",
-    "professors": ["paolo.ciancarini"]
+    "professors": [
+      "paolo.ciancarini"
+    ]
   },
   {
     "name": "Introduzione all'apprendimento automatico",
     "url": "introduzione-apprendimento-automatico",
     "chat": "t.me/appr_auto",
     "website": "455112",
-    "professors": ["andrea.asperti"]
+    "professors": [
+      "andrea.asperti"
+    ]
   },
   {
     "name": "Fondamenti di cybersecurity",
     "url": "fondamenti-di-cybersecurity",
     "chat": "t.me/+j85CFvKpC7UyYTZk",
     "website": "455457",
-    "professors": ["jocelyne.elias"]
+    "professors": [
+      "jocelyne.elias"
+    ]
   },
   {
     "name": "Informatica teorica",
     "url": "informatica-teorica",
     "chat": "t.me/infoteorica",
     "website": "455107",
-    "professors": ["fabio.zanasi"]
+    "professors": [
+      "fabio.zanasi"
+    ]
   },
   {
     "name": "Metodi logici per la filosofia",
     "url": "metodi-logici-per-la-filosofia",
     "chat": "t.me/unibologica2",
     "website": "422963",
-    "professors": ["eugenio.orlandelli"]
+    "professors": [
+      "eugenio.orlandelli"
+    ]
   },
   {
     "name": "Laboratorio di applicazioni mobili",
     "url": "laboratorio-di-applicazioni-mobili",
     "chat": "t.me/+TEnAxUOlQ8wzYmI0",
     "website": "366984",
-    "professors": ["luciano.bononi", "federico.montori"]
+    "professors": [
+      "luciano.bononi",
+      "federico.montori"
+    ]
   },
   {
     "name": "Strategia aziendale",
     "url": "strategia-aziendale",
     "chat": "t.me/+DmlZ4Q31uTQ5YTE0",
     "website": "422036",
-    "professors": ["sabrina.scarito"]
+    "professors": [
+      "sabrina.scarito"
+    ]
   },
   {
     "name": "Progetto di sistemi virtuali",
     "url": "progetto-di-sistemi-virtuali",
     "chat": "t.me/p_sis_virt",
     "website": "354042",
-    "professors": ["renzo.davoli"]
+    "professors": [
+      "renzo.davoli"
+    ]
   },
   {
     "name": "Storia dell'informatica e dei dispositivi di calcolo",
     "url": "storia-informatica-e-dei-dispositivi-di-calcolo",
     "chat": "t.me/+0_heH25gYSc2Y2Q0",
     "website": "447912",
-    "professors": ["giorgio.casadei"]
+    "professors": [
+      "giorgio.casadei"
+    ]
   },
   {
     "name": "Fisica",
@@ -397,35 +516,48 @@
     "name": "Introduzione alla scienza e tecnologia quantistica",
     "url": "introduzione-alla-scienza-e-tecnologia-quantistica",
     "website": "480615",
-    "professors": ["elisa.ercolessi", "francesco.minardi", "tommaso.calarco"]
+    "professors": [
+      "elisa.ercolessi",
+      "francesco.minardi",
+      "tommaso.calarco"
+    ]
   },
   {
     "name": "Reti di calcolatori T",
     "url": "ing-reti-di-calcolatori-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "459251",
-    "professors": ["antonio.corradi"]
+    "professors": [
+      "antonio.corradi"
+    ]
   },
   {
     "name": "Controlli automatici T",
     "url": "ing-controlli-automatici-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434710",
-    "professors": ["giuseppe.notarstefano", "guido.carnevale"]
+    "professors": [
+      "giuseppe.notarstefano",
+      "guido.carnevale"
+    ]
   },
   {
     "name": "Tecnologie web T",
     "url": "ing-tecnologie-web-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "461146",
-    "professors": ["paolo.bellavista"]
+    "professors": [
+      "paolo.bellavista"
+    ]
   },
   {
     "name": "Elettronica T",
     "url": "ing-elettronica-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434709",
-    "professors": ["massimo.lanzoni"]
+    "professors": [
+      "massimo.lanzoni"
+    ]
   },
   {
     "degree": "ingegneria",
@@ -433,7 +565,9 @@
     "url": "ing-laboratorio-amm-sistemi-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434899",
-    "professors": ["marco.prandini"]
+    "professors": [
+      "marco.prandini"
+    ]
   },
   {
     "degree": "ingegneria",
@@ -441,244 +575,335 @@
     "url": "ing-laboratorio-sicurezza-informatica-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434900",
-    "professors": ["marco.prandini"]
+    "professors": [
+      "marco.prandini"
+    ]
   },
   {
     "name": "Image Processing and Computer Vision",
     "url": "image-processing-and-computer-vision",
     "chat": "t.me/joinchat/FCYXxcp-3vo2NTFk",
     "website": "446598",
-    "professors": ["giuseppe.lisanti", "samuele.salti"]
+    "professors": [
+      "giuseppe.lisanti",
+      "samuele.salti"
+    ]
   },
   {
     "name": "Fundamentals of Artificial Intelligence and Knowledge Representation",
     "url": "fundamentals-of-artificial-intelligence-and-knowledge-representation",
     "chat": "t.me/joinchat/SZP3PwNo4H5kNjFk",
     "website": "446566",
-    "professors": ["michela.milano", "federico.chesani", "paolo.torroni"]
+    "professors": [
+      "michela.milano",
+      "federico.chesani",
+      "paolo.torroni"
+    ]
   },
   {
     "name": "Statistical and Mathematical Methods for Artificial Intelligence",
     "url": "statistical-and-mathematical-methods-for-artificial-intelligence",
     "chat": "t.me/joinchat/Acwl11_NZ0Q3NzQ8",
     "website": "446599",
-    "professors": ["elena.loli"]
+    "professors": [
+      "elena.loli"
+    ]
   },
   {
     "name": "Cognition and Neuroscience",
     "url": "cognition-and-neuroscience",
     "chat": "t.me/+nHfD_gR9CKc5NzA8",
     "website": "446547",
-    "professors": ["francesca.starita", "g.dipellegrino"]
+    "professors": [
+      "francesca.starita",
+      "g.dipellegrino"
+    ]
   },
   {
     "name": "Combinatorial Decision Making and Optimisation",
     "url": "combinatorial-decision-making-and-optimisation",
     "chat": "https://t.me/+jUwtBv6YFV4wNGRk",
     "website": "446597",
-    "professors": ["zeynep.kiziltan", "roberto.amadini"]
+    "professors": [
+      "zeynep.kiziltan",
+      "roberto.amadini"
+    ]
   },
   {
     "name": "Machine Learning and Data Mining",
     "url": "machine-learning-and-data-mining",
     "chat": "t.me/joinchat/dQz4em3yZqU2ODQ0",
     "website": "491908",
-    "professors": ["claudio.sartori"]
+    "professors": [
+      "claudio.sartori"
+    ]
   },
   {
     "name": "Languages and Algorithms for Artificial Intelligence",
     "url": "languages-and-algorithms-for-artificial-intelligence",
     "chat": "t.me/joinchat/wlC8ZSkpVWQ1Zjdk",
     "website": "446595",
-    "professors": ["ugo.dallago", "simone.martini", "maurizio.gabbrielli"]
+    "professors": [
+      "ugo.dallago",
+      "simone.martini",
+      "maurizio.gabbrielli"
+    ]
   },
   {
     "name": "Natural Language Processing",
     "url": "natural-language-processing",
     "chat": "t.me/+V5sJeqdMEbExYjg0",
     "website": "446602",
-    "professors": ["paolo.torroni"]
+    "professors": [
+      "paolo.torroni"
+    ]
   },
   {
     "name": "Ethics in Artificial Intelligence",
     "url": "ethics-in-artificial-intelligence",
     "chat": "t.me/+0TmpmZ_THJ1jYzdk",
     "website": "446601",
-    "professors": ["giovanni.sartor", "francesca.lagiogia", "roberta.calegari"]
+    "professors": [
+      "giovanni.sartor",
+      "francesca.lagiogia",
+      "roberta.calegari"
+    ]
   },
   {
     "name": "Computational Statistics",
     "url": "isi-computational-statistics",
     "chat": "",
     "website": "454724",
-    "professors": ["saverio.ranciati"]
+    "professors": [
+      "saverio.ranciati"
+    ]
   },
   {
     "name": "Architettura di Internet",
     "url": "ipim-architettura-di-internet",
     "chat": "t.me/unibo_info_manag/5649",
     "website": "319964",
-    "professors": ["marco.roccetti"]
+    "professors": [
+      "marco.roccetti"
+    ]
   },
   {
     "name": "Diritto di Internet",
     "url": "ipim-diritto-di-internet",
     "chat": "t.me/unibo_info_manag/5645",
     "website": "320654",
-    "professors": ["matilde.ratti", "giulio.errani2"]
+    "professors": [
+      "matilde.ratti",
+      "giulio.errani2"
+    ]
   },
   {
     "name": "Economia Aziendale",
     "url": "ipim-economia-aziendale",
     "chat": "t.me/unibo_info_manag/5650",
     "website": "350744",
-    "professors": ["cristina.aprile2"]
+    "professors": [
+      "cristina.aprile2"
+    ]
   },
   {
     "name": "Organizzazione Aziendale",
     "url": "ipim-organizzazione-aziendale",
     "chat": "t.me/unibo_info_manag/6123",
     "website": "391043",
-    "professors": ["sabrina.pedrini"]
+    "professors": [
+      "sabrina.pedrini"
+    ]
   },
   {
     "name": "Programmazione Internet",
     "url": "ipim-programmazione-internet",
     "chat": "t.me/unibo_info_manag/5648",
     "website": "402302",
-    "professors": ["angelo.diiorio", "roberto.amadini"]
+    "professors": [
+      "angelo.diiorio",
+      "roberto.amadini"
+    ]
   },
   {
     "name": "Finanza Aziendale",
     "url": "ipim-finanza-aziendale",
     "chat": "t.me/unibo_info_manag/6184",
     "website": "320664",
-    "professors": ["gianluca.tassinari2"]
+    "professors": [
+      "gianluca.tassinari2"
+    ]
   },
   {
     "name": "Metodi Numerici per il Calcolo",
     "url": "ipim-metodi-numerici-per-il-calcolo",
     "chat": "t.me/unibo_info_manag/6232",
     "website": "375737",
-    "professors": ["giulio.casciola"]
+    "professors": [
+      "giulio.casciola"
+    ]
   },
   {
     "name": "Microeconomia",
     "url": "ipim-microeconomia",
     "chat": "t.me/unibo_info_manag/6182",
     "website": "384287",
-    "professors": ["emanuele.bacchiega"]
+    "professors": [
+      "emanuele.bacchiega"
+    ]
   },
   {
     "name": "Statistica Numerica",
     "url": "ipim-statistica-numerica",
     "chat": "t.me/unibo_info_manag/6233",
     "website": "384286",
-    "professors": ["elena.loli"]
+    "professors": [
+      "elena.loli"
+    ]
   },
   {
     "name": "Teoria dell'Impresa",
     "url": "ipim-teoria-impresa",
     "chat": "t.me/unibo_info_manag/9479",
     "website": "384290",
-    "professors": ["emanuele.bacchiega"]
+    "professors": [
+      "emanuele.bacchiega"
+    ]
   },
   {
     "name": "Strategia, Organizzazione e Mercati",
     "url": "ipim-strategia-organizzazione-mercati",
     "chat": "t.me/unibo_info_manag",
     "website": "421469",
-    "professors": ["edoardo.mollona"]
+    "professors": [
+      "edoardo.mollona"
+    ]
   },
   {
     "name": "Algebra Lineare",
     "url": "ipim-algebra-lineare",
     "chat": "t.me/unibo_info_manag/5647",
     "website": "367005",
-    "professors": ["francesco.regonati"]
+    "professors": [
+      "francesco.regonati"
+    ]
   },
   {
     "name": "Analisi Matematica",
     "url": "ipim-analisi-matematica",
     "chat": "t.me/unibo_info_manag/5646",
     "website": "367006",
-    "professors": ["mattia.galeotti4"]
+    "professors": [
+      "mattia.galeotti4"
+    ]
   },
   {
     "name": "Sistemi Operativi",
     "url": "ipim-sistemi-operativi",
     "chat": "t.me/unibo_info_manag/6231",
     "website": "320660",
-    "professors": ["davide.sangiorgi"]
+    "professors": [
+      "davide.sangiorgi"
+    ]
   },
   {
     "name": "Ingegneria del Software",
     "url": "ipim-ingegneria-del-software",
     "chat": "t.me/unibo_info_manag/9475",
     "website": "367015",
-    "professors": ["daviderossi"]
+    "professors": [
+      "daviderossi"
+    ]
   },
   {
     "name": "Algoritmi e Strutture Dati",
     "url": "ipim-algoritmi-e-strutture-dati",
     "chat": "t.me/unibo_info_manag/6230",
     "website": "320656",
-    "professors": ["daviderossi", "jocelyne.elias"]
+    "professors": [
+      "daviderossi",
+      "jocelyne.elias"
+    ]
   },
   {
     "name": "Basi di Dati",
     "url": "ipim-basi-di-dati",
     "chat": "t.me/unibo_info_manag/9473",
     "website": "378069",
-    "professors": ["marco.difelice3"]
+    "professors": [
+      "marco.difelice3"
+    ]
   },
   {
     "name": "Tecnologie Web",
     "url": "ipim-tecnologie-web",
     "chat": "t.me/unibo_info_manag/9477",
     "website": "367014",
-    "professors": ["angelo.diiorio"]
+    "professors": [
+      "angelo.diiorio"
+    ]
   },
   {
     "name": "Storia e Politiche del Digitale",
     "url": "ipim-storia-politiche-digitale",
     "chat": "t.me/unibo_info_manag",
     "website": "498211",
-    "professors": ["mattia.frapporti2"]
+    "professors": [
+      "mattia.frapporti2"
+    ]
   },
   {
     "name": "Ricerca Operativa M",
     "url": "ing-ricerca-operativa-m",
     "chat": "t.me/joinchat/BMT7WBYtBSdduMJdhjs3Ew",
     "website": "467997",
-    "professors": ["silvano.martello"]
+    "professors": [
+      "silvano.martello"
+    ]
   },
   {
     "name": "Mobile Systems M",
     "url": "ing-mobile-systems-m",
     "chat": "t.me/joinchat/BMT7WBYtBSdduMJdhjs3Ew",
     "website": "468026",
-    "professors": ["paolo.bellavista"]
+    "professors": [
+      "paolo.bellavista"
+    ]
   },
   {
     "name": "Ingegneria del software T",
     "url": "ing-ingegneria-software-t",
     "chat": "t.me/joinchat/BMT7WBYtBSdduMJdhjs3Ew",
     "website": "434708",
-    "professors": ["marco.patella"]
+    "professors": [
+      "marco.patella"
+    ]
   },
   {
     "name": "Diritto dell'Informatica T",
     "url": "ing-diritto-t",
     "chat": "t.me/joinchat/BMT7WBYtBSdduMJdhjs3Ew",
     "website": "434715",
-    "professors": ["claudia.cevenini"]
+    "professors": [
+      "claudia.cevenini"
+    ]
   },
   {
     "name": "Emerging Programming Paradigms",
     "url": "emerging-programming-paradigms",
     "chat": "t.me/+YDegI0VHpC1lOTVk",
     "website": "479059",
-    "professors": ["claudio.sacerdoticoen"]
+    "professors": [
+      "claudio.sacerdoticoen"
+    ]
+  },
+  {
+    "name": "Computer Vision",
+    "url": "computer-vision",
+    "chat": "",
+    "website": "479049",
+    "professors": [
+      "giuseppe.lisanti"
+    ]
   }
 ]
