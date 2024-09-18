@@ -435,11 +435,11 @@
       },
       {
         "name": "complementi-di-basi-di-dati",
-        "mandatory": false
+        "mandatory": true
       },
       {
         "name": "intelligenza-artificiale",
-        "mandatory": false
+        "mandatory": true
       },
       {
         "name": "digital-forensics",
@@ -491,11 +491,27 @@
       },
       {
         "name": "emerging-programming-paradigms",
-        "mandatory": false
+        "mandatory": true
       },
       {
         "name": "computer-vision",
         "mandatory": false
+      },
+      {
+        "name": "artificial-intelligence-blockchain-e-criptovalute-nello-sviluppo-software",
+        "mandatory": false
+      },
+      {
+        "name": "deep-learning",
+        "mandatory": true
+      },
+      {
+        "name": "cryptography",
+        "mandatory": true
+      },
+      {
+        "name": "scalable-and-cloud-programming",
+        "mandatory": true
       }
     ]
   },

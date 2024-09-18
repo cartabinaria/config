@@ -273,7 +273,7 @@
     "name": "Deep Learning",
     "url": "deep-learning",
     "chat": "t.me/+3XKIOM3Lnh1kNTM0",
-    "website": "491909",
+    "website": "493201",
     "professors": [
       "andrea.asperti"
     ]
@@ -904,6 +904,33 @@
     "website": "479049",
     "professors": [
       "giuseppe.lisanti"
+    ]
+  },
+  {
+    "name": "Artificial Intelligence, Blockchain e criptovalute nello sviluppo software",
+    "url": "artificial-intelligence-blockchain-e-criptovalute-nello-sviluppo-software",
+    "chat": "",
+    "website": "495981",
+    "professors": [
+      "giancarlo.succi"
+    ]
+  },
+  {
+    "name": "Cryptography",
+    "url": "cryptography",
+    "chat": "",
+    "website": "479060",
+    "professors": [
+      "ugo.dallago"
+    ]
+  },
+  {
+    "name": "Scalable and Cloud Programming",
+    "url": "scalable-and-cloud-programming",
+    "chat": "",
+    "website": "479058",
+    "professors": [
+      "gianluigi.zavattaro"
     ]
   }
 ]
