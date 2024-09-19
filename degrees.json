@@ -564,6 +564,10 @@
       {
         "name": "internet-of-things",
         "mandatory": true
+      },
+      {
+        "name": "cybersecurity",
+        "mandatory": true
       }
     ]
   },
