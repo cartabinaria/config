@@ -532,6 +532,10 @@
       {
         "name": "laboratorio-di-making",
         "mandatory": false
+      },
+      {
+        "name": "social-network-analysis",
+        "mandatory": false
       }
     ]
   },
