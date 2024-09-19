@@ -528,6 +528,10 @@
       {
         "name": "architetture-software-a-microservizi",
         "mandatory": false
+      },
+      {
+        "name": "laboratorio-di-making",
+        "mandatory": false
       }
     ]
   },
