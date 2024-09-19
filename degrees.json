@@ -512,6 +512,10 @@
       {
         "name": "scalable-and-cloud-programming",
         "mandatory": true
+      },
+      {
+        "name": "business-intelligence",
+        "mandatory": false
       }
     ]
   },
