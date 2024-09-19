@@ -960,5 +960,15 @@
     "professors": [
       "ilaria.bartolini"
     ]
+  },
+  {
+    "name": "Archietture Software a Microservizi",
+    "url": "architetture-software-a-microservizi",
+    "chat": "https://t.me/+5NgnXeO4C5Q2Y2Zk",
+    "website": "503417",
+    "professors": [
+      "davide.rossi",
+      "ivan.lanese"
+    ]
   }
 ]

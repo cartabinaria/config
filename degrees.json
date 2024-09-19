@@ -524,6 +524,10 @@
       {
         "name": "multimedia-data-management",
         "mandatory": false
+      },
+      {
+        "name": "architetture-software-a-microservizi",
+        "mandatory": false
       }
     ]
   },
