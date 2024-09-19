@@ -548,6 +548,10 @@
       {
         "name": "blockchain-and-cryptocurrencies",
         "mandatory": false
+      },
+      {
+        "name": "complex-systems-n-network-science",
+        "mandatory": false
       }
     ]
   },
