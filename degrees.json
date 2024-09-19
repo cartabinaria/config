@@ -536,6 +536,10 @@
       {
         "name": "social-network-analysis",
         "mandatory": false
+      },
+      {
+        "name": "introduction-to-quantum-computing",
+        "mandatory": false
       }
     ]
   },

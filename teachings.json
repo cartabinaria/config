@@ -989,5 +989,15 @@
     "professors": [
       "saverio.giallorenzo2"
     ]
+  },
+  {
+    "name": "Introduction to Quantum Computing",
+    "url": "introduction-to-quantum-computing",
+    "chat": "",
+    "website": "497857",
+    "professors": [
+      "ivan.lanese",
+      "ugo.dallago"
+    ]
   }
 ]
