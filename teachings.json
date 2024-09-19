@@ -263,7 +263,7 @@
   {
     "name": "Programmazione Concorrente e Distribuita",
     "url": "isi-programmazione-concorrente-e-distribuita",
-    "chat": "",
+    "chat": "t.me/+om-sMSI9NXRhZTM0",
     "website": "412598",
     "professors": [
       "alessandro.ricci"
@@ -419,7 +419,7 @@
   {
     "name": "Basi di dati",
     "url": "basi-di-dati",
-    "chat": "https://t.me/+0idUeMWNDlYxZTU0",
+    "chat": "t.me/+0idUeMWNDlYxZTU0",
     "website": "443720",
     "professors": [
       "danilo.montesi"
@@ -630,7 +630,7 @@
   {
     "name": "Combinatorial Decision Making and Optimisation",
     "url": "combinatorial-decision-making-and-optimisation",
-    "chat": "https://t.me/+jUwtBv6YFV4wNGRk",
+    "chat": "t.me/+jUwtBv6YFV4wNGRk",
     "website": "446597",
     "professors": [
       "zeynep.kiziltan",
@@ -680,7 +680,7 @@
   {
     "name": "Computational Statistics",
     "url": "isi-computational-statistics",
-    "chat": "",
+    "chat": "t.me/+1OSBNcY3lXQ1ZWVk",
     "website": "454724",
     "professors": [
       "saverio.ranciati"
@@ -908,7 +908,7 @@
   {
     "name": "Computer Vision",
     "url": "computer-vision",
-    "chat": "https://t.me/+9wTytT_D4Lg1MjFk",
+    "chat": "t.me/+9wTytT_D4Lg1MjFk",
     "website": "479049",
     "professors": [
       "giuseppe.lisanti"
@@ -917,7 +917,7 @@
   {
     "name": "Artificial Intelligence, Blockchain e criptovalute nello sviluppo software",
     "url": "artificial-intelligence-blockchain-e-criptovalute-nello-sviluppo-software",
-    "chat": "https://t.me/+FrU7IhMlaZoyZDZk",
+    "chat": "t.me/+FrU7IhMlaZoyZDZk",
     "website": "495981",
     "professors": [
       "giancarlo.succi"
@@ -926,7 +926,7 @@
   {
     "name": "Cryptography",
     "url": "cryptography",
-    "chat": "https://t.me/+h0CF62a0rNRiNDQ0",
+    "chat": "t.me/+h0CF62a0rNRiNDQ0",
     "website": "479060",
     "professors": [
       "ugo.dallago"
@@ -935,10 +935,160 @@
   {
     "name": "Scalable and Cloud Programming",
     "url": "scalable-and-cloud-programming",
-    "chat": "https://t.me/+-7R_uvQAWGhiODZk",
+    "chat": "t.me/+-7R_uvQAWGhiODZk",
     "website": "479058",
     "professors": [
       "gianluigi.zavattaro"
+    ]
+  },
+  {
+    "name": "Business Intelligence",
+    "url": "business-intelligence",
+    "chat": "t.me/+zoNiPXUXuOFhYjE0",
+    "website": "479052",
+    "professors": [
+      "furio.camillo"
+    ]
+  },
+  {
+    "name": "Computational Imaging",
+    "url": "computational-imaging",
+    "chat": "t.me/+1cVwLP7gVK9hMjg8",
+    "website": "503547",
+    "professors": [
+      "elena.lolipiccolomini",
+      "davide.evangelista"
+    ]
+  },
+  {
+    "name": "Multimedia Data Management",
+    "url": "multimedia-data-management",
+    "chat": "t.me/+eX3Fjlbq90MzMzU0",
+    "website": "479051",
+    "professors": [
+      "ilaria.bartolini"
+    ]
+  },
+  {
+    "name": "Archietture Software a Microservizi",
+    "url": "architetture-software-a-microservizi",
+    "chat": "t.me/+5NgnXeO4C5Q2Y2Zk",
+    "website": "503417",
+    "professors": [
+      "davide.rossi",
+      "ivan.lanese"
+    ]
+  },
+  {
+    "name": "Laboratorio di Making",
+    "url": "laboratorio-di-making",
+    "chat": "t.me/+9x6YUdVuAx02ZjRk",
+    "website": "479045",
+    "professors": [
+      "renzo.davoli",
+      "federico.montori"
+    ]
+  },
+  {
+    "name": "Social Network Analysis",
+    "url": "social-network-analysis",
+    "chat": "t.me/+dJxS4UyQLKwzYmFk",
+    "website": "479048",
+    "professors": [
+      "saverio.giallorenzo2"
+    ]
+  },
+  {
+    "name": "Introduction to Quantum Computing",
+    "url": "introduction-to-quantum-computing",
+    "chat": "t.me/+iq4QX0zs4dY3ZWQ8",
+    "website": "497857",
+    "professors": [
+      "ivan.lanese",
+      "ugo.dallago"
+    ]
+  },
+  {
+    "name": "Laboratorio di Realtà Virtuale e Realtà Aumentata",
+    "url": "laboratorio-di-realta-virtuale-e-realta-aumentata",
+    "chat": "t.me/+zGLARcD5pO05NTFk",
+    "website": "479047",
+    "professors": [
+      "gustavo.marfia"
+    ]
+  },
+  {
+    "name": "Blockchain and Cryptocurrencies",
+    "url": "blockchain-and-cryptocurrencies",
+    "chat": "t.me/+tFVa17-2aqYxYTdk",
+    "website": "479032",
+    "professors": [
+      "claudio.sacerdoticoen"
+    ]
+  },
+  {
+    "name": "Complex Systems & Network Science",
+    "url": "complex-systems-n-network-science",
+    "chat": "t.me/+PP1HFVoUXsNkYTdk",
+    "website": "479029",
+    "professors": [
+      "ozalp.babaoglu"
+    ]
+  },
+  {
+    "name": "Distributed Software Systems",
+    "url": "distributed-software-systems",
+    "chat": "t.me/+JwQyuZIoA_9iMWJk",
+    "website": "479053",
+    "professors": [
+      "paolo.ciancarini"
+    ]
+  },
+  {
+    "name": "Human Data Science",
+    "url": "human-data-science",
+    "chat": "t.me/+yBqI6rZBmKlhOGM0",
+    "website": "479054",
+    "professors": [
+      "marco.roccetti"
+    ]
+  },
+  {
+    "name": "Internet of Things",
+    "url": "internet-of-things",
+    "chat": "t.me/+ZijCU0oBMJRjZDg0",
+    "website": "479055",
+    "professors": [
+      "luciano.bononi",
+      "marco.difelice3"
+    ]
+  },
+  {
+    "name": "Cybersecurity",
+    "url": "cybersecurity",
+    "chat": "t.me/+RlW5cTy3e2o4Mzdk",
+    "website": "479056",
+    "professors": [
+      "michele.colajanni"
+    ]
+  },
+  {
+    "name": "Respondabilità Sociale ed Etica d'Impresa",
+    "url": "responsabilita-sociale-ed-etica-dimpresa",
+    "chat": "t.me/+GIGYzS95kWBjMGRk",
+    "website": "479031",
+    "professors": [
+      "edoardo.mollona"
+    ]
+  },
+  {
+    "name": "Data Analytics",
+    "url": "data-analytics",
+    "chat": "t.me/+uAzvwPyvC8MzYzk0",
+    "website": "479030",
+    "professors": [
+      "marco.difelice3",
+      "giuseppe.lisanti"
     ]
   }
 ]

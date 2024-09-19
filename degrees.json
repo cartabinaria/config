@@ -504,7 +504,7 @@
       },
       {
         "name": "artificial-intelligence-blockchain-e-criptovalute-nello-sviluppo-software",
-        "mandatory": false
+        "mandatory": true
       },
       {
         "name": "deep-learning",
@@ -516,6 +516,70 @@
       },
       {
         "name": "scalable-and-cloud-programming",
+        "mandatory": true
+      },
+      {
+        "name": "business-intelligence",
+        "mandatory": false
+      },
+      {
+        "name": "computational-imaging",
+        "mandatory": false
+      },
+      {
+        "name": "multimedia-data-management",
+        "mandatory": false
+      },
+      {
+        "name": "architetture-software-a-microservizi",
+        "mandatory": false
+      },
+      {
+        "name": "laboratorio-di-making",
+        "mandatory": false
+      },
+      {
+        "name": "social-network-analysis",
+        "mandatory": true
+      },
+      {
+        "name": "introduction-to-quantum-computing",
+        "mandatory": false
+      },
+      {
+        "name": "laboratorio-di-realta-virtuale-e-realta-aumentata",
+        "mandatory": false
+      },
+      {
+        "name": "blockchain-and-cryptocurrencies",
+        "mandatory": false
+      },
+      {
+        "name": "complex-systems-n-network-science",
+        "mandatory": false
+      },
+      {
+        "name": "distributed-software-systems",
+        "mandatory": true
+      },
+      {
+        "name": "human-data-science",
+        "mandatory": true
+      },
+      {
+        "name": "internet-of-things",
+        "mandatory": true
+      },
+      {
+        "name": "cybersecurity",
+        "mandatory": true
+      },
+      {
+        "name": "responsabilita-sociale-ed-etica-dimpresa",
+        "mandatory": true
+      },
+      {
+        "name": "data-analytics",
         "mandatory": true
       }
     ]
