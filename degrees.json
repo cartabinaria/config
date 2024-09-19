@@ -520,6 +520,10 @@
       {
         "name": "computational-imaging",
         "mandatory": false
+      },
+      {
+        "name": "multimedia-data-management",
+        "mandatory": false
       }
     ]
   },
