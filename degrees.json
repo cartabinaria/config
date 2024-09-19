@@ -556,6 +556,10 @@
       {
         "name": "distributed-software-systems",
         "mandatory": true
+      },
+      {
+        "name": "human-data-science",
+        "mandatory": true
       }
     ]
   },
