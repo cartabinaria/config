@@ -516,6 +516,10 @@
       {
         "name": "business-intelligence",
         "mandatory": false
+      },
+      {
+        "name": "computational-imaging",
+        "mandatory": false
       }
     ]
   },
