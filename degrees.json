@@ -144,6 +144,11 @@
         "name": "isi-computational-statistics",
         "year": 3,
         "mandatory": false
+      },
+      {
+        "name": "leadership-e-imprenditorialita",
+        "year": 3,
+        "mandatory": false
       }
     ],
     "years": [
