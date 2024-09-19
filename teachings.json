@@ -1026,5 +1026,14 @@
     "professors": [
       "ozalp.babaoglu"
     ]
+  },
+  {
+    "name": "Distributed Software Systems",
+    "url": "distributed-software-systems",
+    "chat": "t.me/+JwQyuZIoA_9iMWJk",
+    "website": "479053",
+    "professors": [
+      "paolo.ciancarini"
+    ]
   }
 ]
