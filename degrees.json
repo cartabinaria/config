@@ -544,6 +544,10 @@
       {
         "name": "laboratorio-di-realta-virtuale-e-realta-aumentata",
         "mandatory": false
+      },
+      {
+        "name": "blockchain-and-cryptocurrencies",
+        "mandatory": false
       }
     ]
   },
