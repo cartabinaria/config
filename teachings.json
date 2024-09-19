@@ -1044,5 +1044,15 @@
     "professors": [
       "marco.roccetti"
     ]
+  },
+  {
+    "name": "Internet of Things",
+    "url": "internet-of-things",
+    "chat": "",
+    "website": "479055",
+    "professors": [
+      "luciano.bononi",
+      "marco.difelice3"
+    ]
   }
 ]

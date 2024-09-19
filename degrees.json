@@ -560,6 +560,10 @@
       {
         "name": "human-data-science",
         "mandatory": true
+      },
+      {
+        "name": "internet-of-things",
+        "mandatory": true
       }
     ]
   },
