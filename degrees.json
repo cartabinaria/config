@@ -499,7 +499,7 @@
       },
       {
         "name": "artificial-intelligence-blockchain-e-criptovalute-nello-sviluppo-software",
-        "mandatory": false
+        "mandatory": true
       },
       {
         "name": "deep-learning",
@@ -535,7 +535,7 @@
       },
       {
         "name": "social-network-analysis",
-        "mandatory": false
+        "mandatory": true
       },
       {
         "name": "introduction-to-quantum-computing",
@@ -567,6 +567,14 @@
       },
       {
         "name": "cybersecurity",
+        "mandatory": true
+      },
+      {
+        "name": "responsabilita-sociale-ed-etica-dimpresa",
+        "mandatory": true
+      },
+      {
+        "name": "data-analytics",
         "mandatory": true
       }
     ]

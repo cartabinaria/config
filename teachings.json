@@ -1063,5 +1063,24 @@
     "professors": [
       "michele.colajanni"
     ]
+  },
+  {
+    "name": "Respondabilità Sociale ed Etica d'Impresa",
+    "url": "responsabilita-sociale-ed-etica-dimpresa",
+    "chat": "t.me/+GIGYzS95kWBjMGRk",
+    "website": "479031",
+    "professors": [
+      "edoardo.mollona"
+    ]
+  },
+  {
+    "name": "Data Analytics",
+    "url": "data-analytics",
+    "chat": "t.me/+uAzvwPyvC8MzYzk0",
+    "website": "479030",
+    "professors": [
+      "marco.difelice3",
+      "giuseppe.lisanti"
+    ]
   }
 ]
