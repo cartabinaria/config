@@ -263,7 +263,7 @@
   {
     "name": "Programmazione Concorrente e Distribuita",
     "url": "isi-programmazione-concorrente-e-distribuita",
-    "chat": "https://t.me/+om-sMSI9NXRhZTM0",
+    "chat": "t.me/+om-sMSI9NXRhZTM0",
     "website": "412598",
     "professors": [
       "alessandro.ricci"
@@ -419,7 +419,7 @@
   {
     "name": "Basi di dati",
     "url": "basi-di-dati",
-    "chat": "https://t.me/+0idUeMWNDlYxZTU0",
+    "chat": "t.me/+0idUeMWNDlYxZTU0",
     "website": "443720",
     "professors": [
       "danilo.montesi"
@@ -622,7 +622,7 @@
   {
     "name": "Combinatorial Decision Making and Optimisation",
     "url": "combinatorial-decision-making-and-optimisation",
-    "chat": "https://t.me/+jUwtBv6YFV4wNGRk",
+    "chat": "t.me/+jUwtBv6YFV4wNGRk",
     "website": "446597",
     "professors": [
       "zeynep.kiziltan",
@@ -672,7 +672,7 @@
   {
     "name": "Computational Statistics",
     "url": "isi-computational-statistics",
-    "chat": "https://t.me/+1OSBNcY3lXQ1ZWVk",
+    "chat": "t.me/+1OSBNcY3lXQ1ZWVk",
     "website": "454724",
     "professors": [
       "saverio.ranciati"
@@ -900,7 +900,7 @@
   {
     "name": "Computer Vision",
     "url": "computer-vision",
-    "chat": "https://t.me/+9wTytT_D4Lg1MjFk",
+    "chat": "t.me/+9wTytT_D4Lg1MjFk",
     "website": "479049",
     "professors": [
       "giuseppe.lisanti"
@@ -909,7 +909,7 @@
   {
     "name": "Artificial Intelligence, Blockchain e criptovalute nello sviluppo software",
     "url": "artificial-intelligence-blockchain-e-criptovalute-nello-sviluppo-software",
-    "chat": "https://t.me/+FrU7IhMlaZoyZDZk",
+    "chat": "t.me/+FrU7IhMlaZoyZDZk",
     "website": "495981",
     "professors": [
       "giancarlo.succi"
@@ -918,7 +918,7 @@
   {
     "name": "Cryptography",
     "url": "cryptography",
-    "chat": "https://t.me/+h0CF62a0rNRiNDQ0",
+    "chat": "t.me/+h0CF62a0rNRiNDQ0",
     "website": "479060",
     "professors": [
       "ugo.dallago"
@@ -927,7 +927,7 @@
   {
     "name": "Scalable and Cloud Programming",
     "url": "scalable-and-cloud-programming",
-    "chat": "https://t.me/+-7R_uvQAWGhiODZk",
+    "chat": "t.me/+-7R_uvQAWGhiODZk",
     "website": "479058",
     "professors": [
       "gianluigi.zavattaro"
@@ -936,7 +936,7 @@
   {
     "name": "Business Intelligence",
     "url": "business-intelligence",
-    "chat": "https://t.me/+zoNiPXUXuOFhYjE0",
+    "chat": "t.me/+zoNiPXUXuOFhYjE0",
     "website": "479052",
     "professors": [
       "furio.camillo"
@@ -945,7 +945,7 @@
   {
     "name": "Computational Imaging",
     "url": "computational-imaging",
-    "chat": "https://t.me/+1cVwLP7gVK9hMjg8",
+    "chat": "t.me/+1cVwLP7gVK9hMjg8",
     "website": "503547",
     "professors": [
       "elena.lolipiccolomini",
@@ -955,7 +955,7 @@
   {
     "name": "Multimedia Data Management",
     "url": "multimedia-data-management",
-    "chat": "https://t.me/+eX3Fjlbq90MzMzU0",
+    "chat": "t.me/+eX3Fjlbq90MzMzU0",
     "website": "479051",
     "professors": [
       "ilaria.bartolini"
@@ -964,7 +964,7 @@
   {
     "name": "Archietture Software a Microservizi",
     "url": "architetture-software-a-microservizi",
-    "chat": "https://t.me/+5NgnXeO4C5Q2Y2Zk",
+    "chat": "t.me/+5NgnXeO4C5Q2Y2Zk",
     "website": "503417",
     "professors": [
       "davide.rossi",
@@ -972,9 +972,9 @@
     ]
   },
   {
-    "name": "aboratorio di Making",
+    "name": "Laboratorio di Making",
     "url": "laboratorio-di-making",
-    "chat": "https://t.me/+9x6YUdVuAx02ZjRk",
+    "chat": "t.me/+9x6YUdVuAx02ZjRk",
     "website": "479045",
     "professors": [
       "renzo.davoli",
@@ -984,7 +984,7 @@
   {
     "name": "Social Network Analysis",
     "url": "social-network-analysis",
-    "chat": "https://t.me/+dJxS4UyQLKwzYmFk",
+    "chat": "t.me/+dJxS4UyQLKwzYmFk",
     "website": "479048",
     "professors": [
       "saverio.giallorenzo2"
@@ -993,7 +993,7 @@
   {
     "name": "Introduction to Quantum Computing",
     "url": "introduction-to-quantum-computing",
-    "chat": "https://t.me/+iq4QX0zs4dY3ZWQ8",
+    "chat": "t.me/+iq4QX0zs4dY3ZWQ8",
     "website": "497857",
     "professors": [
       "ivan.lanese",
@@ -1003,7 +1003,7 @@
   {
     "name": "Laboratorio di Realtà Virtuale e Realtà Aumentata",
     "url": "laboratorio-di-realta-virtuale-e-realta-aumentata",
-    "chat": "https://t.me/+zGLARcD5pO05NTFk",
+    "chat": "t.me/+zGLARcD5pO05NTFk",
     "website": "479047",
     "professors": [
       "gustavo.marfia"
@@ -1012,7 +1012,7 @@
   {
     "name": "Blockchain and Cryptocurrencies",
     "url": "blockchain-and-cryptocurrencies",
-    "chat": "https://t.me/+tFVa17-2aqYxYTdk",
+    "chat": "t.me/+tFVa17-2aqYxYTdk",
     "website": "479032",
     "professors": [
       "claudio.sacerdoticoen"
@@ -1021,7 +1021,7 @@
   {
     "name": "Complex Systems & Network Science",
     "url": "complex-systems-n-network-science",
-    "chat": "https://t.me/+PP1HFVoUXsNkYTdk",
+    "chat": "t.me/+PP1HFVoUXsNkYTdk",
     "website": "479029",
     "professors": [
       "ozalp.babaoglu"
