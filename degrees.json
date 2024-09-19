@@ -540,6 +540,10 @@
       {
         "name": "introduction-to-quantum-computing",
         "mandatory": false
+      },
+      {
+        "name": "laboratorio-di-realta-virtuale-e-realta-aumentata",
+        "mandatory": false
       }
     ]
   },

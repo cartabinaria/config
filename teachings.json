@@ -993,11 +993,20 @@
   {
     "name": "Introduction to Quantum Computing",
     "url": "introduction-to-quantum-computing",
-    "chat": "",
+    "chat": "https://t.me/+iq4QX0zs4dY3ZWQ8",
     "website": "497857",
     "professors": [
       "ivan.lanese",
       "ugo.dallago"
+    ]
+  },
+  {
+    "name": "Laboratorio di Realtà Virtuale e Realtà Aumentata",
+    "url": "laboratorio-di-realta-virtuale-e-realta-aumentata",
+    "chat": "https://t.me/+zGLARcD5pO05NTFk",
+    "website": "479047",
+    "professors": [
+      "gustavo.marfia"
     ]
   }
 ]
