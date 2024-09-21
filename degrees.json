@@ -149,6 +149,11 @@
         "name": "leadership-e-imprenditorialita",
         "year": 3,
         "mandatory": false
+      },
+      {
+        "name": "metodi-probabilistici-per-le-applicazioni",
+        "year": 3,
+        "mandatory": false
       }
     ],
     "years": [
