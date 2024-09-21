@@ -425,6 +425,11 @@
         "name": "ing-mobile-systems-m",
         "year": 2,
         "mandatory": false
+      },
+      {
+        "name": "ing-sistemi-operativi-m",
+        "year": 1,
+        "mandatory": false
       }
     ]
   },
