@@ -1107,5 +1107,13 @@
     "professors": [
       "anna.ciampolini"
     ]
+  },
+  {
+    "name": "Linguaggi e Modelli Computazionali",
+    "url": "ing-linguaggi-modelli-m",
+    "website": "468004",
+    "professors": [
+      "enrico.denti"
+    ]
   }
 ]

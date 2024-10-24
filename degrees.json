@@ -430,6 +430,11 @@
         "name": "ing-sistemi-operativi-m",
         "year": 1,
         "mandatory": false
+      },
+      {
+        "name": "ing-linguaggi-modelli-m",
+        "year": 1,
+        "mandatory": false
       }
     ]
   },
