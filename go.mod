@@ -1,3 +1,3 @@
-module github.com/csunibo/config
+module github.com/cartabinaria/config
 
 go 1.22.4
