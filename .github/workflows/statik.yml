@@ -30,7 +30,7 @@ jobs:
 
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/csunibo/build-image:latest
+      image: ghcr.io/cartabinaria/build-image:latest
 
     steps:
       - uses: actions/checkout@v4
@@ -79,7 +79,7 @@ jobs:
           "https://risorse.students.cs.unibo.it/${{ github.event.repository.name}}/libri" 
           -rl ./site | xargs -r
           sed -i 
-          "s/https:\/\/risorse.students.cs.unibo.it\/${{ github.event.repository.name}}\/libri/https:\/\/csunibo.github.io\/${{ github.event.repository.name}}\/libri\//g"
+          "s/https:\/\/risorse.students.cs.unibo.it\/${{ github.event.repository.name}}\/libri/https:\/\/cartabinaria.github.io\/${{ github.event.repository.name}}\/libri\//g"
 
       - name: Generate site artifact
         if: github.ref == 'refs/heads/main'

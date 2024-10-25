@@ -12,7 +12,7 @@ jobs:
 
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/csunibo/synta:latest
+      image: ghcr.io/cartabinaria/synta:latest
 
     steps:
       - uses: actions/checkout@v4
