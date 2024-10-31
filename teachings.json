@@ -56,60 +56,12 @@
     ]
   },
   {
-    "name": "Fondamenti di informatica T-1",
-    "url": "ing-fondamenti-di-informatica-1-t",
-    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-    "website": "449442",
-    "professors": [
-      "paola.mello",
-      "federico.chesani"
-    ]
-  },
-  {
-    "name": "Analisi matematica T-1",
-    "url": "ing-analisi-matematica-1-t",
-    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-    "website": "434699",
-    "professors": [
-      "paolo.albano",
-      "marco.mughetti"
-    ]
-  },
-  {
-    "name": "Geometria e algebra T",
-    "url": "ing-algebra-e-geometria-t",
-    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-    "website": "434697",
-    "professors": [
-      "patrizio.frosini"
-    ]
-  },
-  {
-    "name": "Fondamenti di informatica T-2",
-    "url": "ing-fondamenti-di-informatica-2-t",
-    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-    "website": "434698",
-    "professors": [
-      "enrico.denti",
-      "roberta.calegari"
-    ]
-  },
-  {
     "name": "Analisi Matematica T-2",
     "url": "ing-analisi-matematica-2-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434693",
     "professors": [
       "davide.guidetti"
-    ]
-  },
-  {
-    "name": "Reti logiche T",
-    "url": "ing-reti-logiche-t",
-    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-    "website": "434696",
-    "professors": [
-      "samuele.salti"
     ]
   },
   {
@@ -165,16 +117,6 @@
     "website": "479038",
     "professors": [
       "zeynep.kiziltan"
-    ]
-  },
-  {
-    "name": "Ingegneria del software orientata ai servizi",
-    "url": "ingegneria-del-software-orientata-ai-servizi",
-    "chat": "t.me/ISOS_unibo",
-    "website": "479037",
-    "professors": [
-      "davide.rossi",
-      "ivan.lanese"
     ]
   },
   {
@@ -350,15 +292,6 @@
     "website": "434704",
     "professors": [
       "francesca.brini"
-    ]
-  },
-  {
-    "name": "Calcolatori elettronici T",
-    "url": "ing-calcolatori-elettronici-t",
-    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-    "website": "434701",
-    "professors": [
-      "stefano.mattoccia"
     ]
   },
   {
@@ -893,15 +826,6 @@
     "website": "434708",
     "professors": [
       "marco.patella"
-    ]
-  },
-  {
-    "name": "Diritto dell'Informatica T",
-    "url": "ing-diritto-t",
-    "chat": "t.me/joinchat/BMT7WBYtBSdduMJdhjs3Ew",
-    "website": "434715",
-    "professors": [
-      "claudia.cevenini"
     ]
   },
   {
