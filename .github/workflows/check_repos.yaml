@@ -1,0 +1,32 @@
+name: Check repo existance
+
+on:
+  push:
+
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check all teachings
+        run: |
+          bash -c '
+            OK=true
+
+            echo "Checking repos..."
+
+            for r in $(jq -r '.[].url' < ./teachings.json); do
+              if [ $(curl -s -o /dev/null -w "%{http_code}" https://github.com/$GITHUB_REPOSITORY_OWNER/$r) -eq 404 ]; then
+                echo $r NOT FOUND;
+                OK=false
+              fi
+            done
+
+            if ! $OK; then
+              echo "Some repos do not exist"
+              exit 1
+            fi
+          '
+
