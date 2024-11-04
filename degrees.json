@@ -393,6 +393,11 @@
         "mandatory": true
       },
       {
+        "name": "ing-affidabilita-e-controllo-della-qualita-t",
+        "year": 3,
+        "mandatory": false
+      },
+      {
         "name": "ing-laboratorio-sicurezza-informatica-t",
         "year": 3,
         "mandatory": false
@@ -404,6 +409,11 @@
       },
       {
         "name": "ing-diritto-dell-informatica-t",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "ing-progettazione-di-applicazioni-web-t",
         "year": 3,
         "mandatory": false
       }
