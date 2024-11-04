@@ -308,7 +308,7 @@
         "mandatory": true
       },
       {
-        "name": "ing-algebra-e-geometria-t",
+        "name": "ing-geometria-e-algebra-t",
         "year": 1,
         "mandatory": true
       },
@@ -403,7 +403,7 @@
         "mandatory": false
       },
       {
-        "name": "ing-diritto-t",
+        "name": "ing-diritto-dell-informatica-t",
         "year": 3,
         "mandatory": false
       }
@@ -467,10 +467,6 @@
       },
       {
         "name": "decision-making-with-constraint-programming",
-        "mandatory": false
-      },
-      {
-        "name": "ingegneria-del-software-orientata-ai-servizi",
         "mandatory": false
       },
       {

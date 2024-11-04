@@ -56,12 +56,60 @@
     ]
   },
   {
+    "name": "Fondamenti di informatica T-1",
+    "url": "ing-fondamenti-di-informatica-1-t",
+    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
+    "website": "449442",
+    "professors": [
+      "paola.mello",
+      "federico.chesani"
+    ]
+  },
+  {
+    "name": "Analisi matematica T-1",
+    "url": "ing-analisi-matematica-1-t",
+    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
+    "website": "434699",
+    "professors": [
+      "paolo.albano",
+      "marco.mughetti"
+    ]
+  },
+  {
+    "name": "Geometria e algebra T",
+    "url": "ing-geometria-e-algebra-t",
+    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
+    "website": "434697",
+    "professors": [
+      "patrizio.frosini"
+    ]
+  },
+  {
+    "name": "Fondamenti di informatica T-2",
+    "url": "ing-fondamenti-di-informatica-2-t",
+    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
+    "website": "434698",
+    "professors": [
+      "enrico.denti",
+      "roberta.calegari"
+    ]
+  },
+  {
     "name": "Analisi Matematica T-2",
     "url": "ing-analisi-matematica-2-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434693",
     "professors": [
       "davide.guidetti"
+    ]
+  },
+  {
+    "name": "Reti logiche T",
+    "url": "ing-reti-logiche-t",
+    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
+    "website": "434696",
+    "professors": [
+      "samuele.salti"
     ]
   },
   {
@@ -295,6 +343,15 @@
     ]
   },
   {
+    "name": "Calcolatori elettronici T",
+    "url": "ing-calcolatori-elettronici-t",
+    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
+    "website": "434701",
+    "professors": [
+      "stefano.mattoccia"
+    ]
+  },
+  {
     "name": "Fisica generale T",
     "url": "ing-fisica-generale-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
@@ -506,6 +563,26 @@
     "website": "434709",
     "professors": [
       "massimo.lanzoni"
+    ]
+  },
+  {
+    "degree": "ingegneria",
+    "name": "Affidabilità e controllo della qualità T",
+    "url": "ing-affidabilita-e-controllo-della-qualita-t",
+    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
+    "website": "434717",
+    "professors": [
+      "roberto.tinarelli3"
+    ]
+  },
+  {
+    "degree": "ingegneria",
+    "name": "Progettazione di applicazioni web T",
+    "url": "ing-progettazione-di-applicazioni-web-t",
+    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
+    "website": "461145",
+    "professors": [
+      "ilaria.bartolini"
     ]
   },
   {
@@ -826,6 +903,15 @@
     "website": "434708",
     "professors": [
       "marco.patella"
+    ]
+  },
+  {
+    "name": "Diritto dell'Informatica T",
+    "url": "ing-diritto-dell-informatica-t",
+    "chat": "t.me/joinchat/BMT7WBYtBSdduMJdhjs3Ew",
+    "website": "434715",
+    "professors": [
+      "claudia.cevenini"
     ]
   },
   {
