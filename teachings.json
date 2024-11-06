@@ -77,7 +77,7 @@
   },
   {
     "name": "Geometria e algebra T",
-    "url": "ing-algebra-e-geometria-t",
+    "url": "ing-geometria-e-algebra-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
     "website": "434697",
     "professors": [
@@ -165,16 +165,6 @@
     "website": "479038",
     "professors": [
       "zeynep.kiziltan"
-    ]
-  },
-  {
-    "name": "Ingegneria del software orientata ai servizi",
-    "url": "ingegneria-del-software-orientata-ai-servizi",
-    "chat": "t.me/ISOS_unibo",
-    "website": "479037",
-    "professors": [
-      "davide.rossi",
-      "ivan.lanese"
     ]
   },
   {
@@ -577,6 +567,26 @@
   },
   {
     "degree": "ingegneria",
+    "name": "Affidabilità e controllo della qualità T",
+    "url": "ing-affidabilita-e-controllo-della-qualita-t",
+    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
+    "website": "434717",
+    "professors": [
+      "roberto.tinarelli3"
+    ]
+  },
+  {
+    "degree": "ingegneria",
+    "name": "Progettazione di applicazioni web T",
+    "url": "ing-progettazione-di-applicazioni-web-t",
+    "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
+    "website": "461145",
+    "professors": [
+      "ilaria.bartolini"
+    ]
+  },
+  {
+    "degree": "ingegneria",
     "name": "Amministazione di sistemi",
     "url": "ing-laboratorio-amm-sistemi-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
@@ -897,7 +907,7 @@
   },
   {
     "name": "Diritto dell'Informatica T",
-    "url": "ing-diritto-t",
+    "url": "ing-diritto-dell-informatica-t",
     "chat": "t.me/joinchat/BMT7WBYtBSdduMJdhjs3Ew",
     "website": "434715",
     "professors": [

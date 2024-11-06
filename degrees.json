@@ -308,7 +308,7 @@
         "mandatory": true
       },
       {
-        "name": "ing-algebra-e-geometria-t",
+        "name": "ing-geometria-e-algebra-t",
         "year": 1,
         "mandatory": true
       },
@@ -393,6 +393,11 @@
         "mandatory": true
       },
       {
+        "name": "ing-affidabilita-e-controllo-della-qualita-t",
+        "year": 3,
+        "mandatory": false
+      },
+      {
         "name": "ing-laboratorio-sicurezza-informatica-t",
         "year": 3,
         "mandatory": false
@@ -403,7 +408,12 @@
         "mandatory": false
       },
       {
-        "name": "ing-diritto-t",
+        "name": "ing-diritto-dell-informatica-t",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "ing-progettazione-di-applicazioni-web-t",
         "year": 3,
         "mandatory": false
       }
@@ -467,10 +477,6 @@
       },
       {
         "name": "decision-making-with-constraint-programming",
-        "mandatory": false
-      },
-      {
-        "name": "ingegneria-del-software-orientata-ai-servizi",
         "mandatory": false
       },
       {
