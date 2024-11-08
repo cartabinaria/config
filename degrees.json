@@ -560,7 +560,7 @@
         "mandatory": false
       },
       {
-        "name": "social-network-analysis",
+        "name": "dhdk-social-network-analysis",
         "mandatory": true
       },
       {
@@ -602,6 +602,10 @@
       {
         "name": "data-analytics",
         "mandatory": true
+      },
+      {
+        "name": "dhdk-natural-language-processing",
+        "mandatory": false
       }
     ]
   },
@@ -674,6 +678,11 @@
         "name": "ethics-in-artificial-intelligence",
         "year": 2,
         "mandatory": true
+      },
+      {
+        "name": "dhdk-social-network-analysis",
+        "year": 2,
+        "mandatory": false
       }
     ],
     "years": [

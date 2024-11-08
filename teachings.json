@@ -1009,11 +1009,20 @@
   },
   {
     "name": "Social Network Analysis",
-    "url": "social-network-analysis",
+    "url": "dhdk-social-network-analysis",
     "chat": "t.me/+dJxS4UyQLKwzYmFk",
     "website": "479048",
     "professors": [
       "saverio.giallorenzo2"
+    ]
+  },
+  {
+    "name": "Natural Language Processing",
+    "url": "dhdk-natural-language-processing",
+    "chat": "t.me/mag_informatica_unibo/2739",
+    "website": "479050",
+    "professors": [
+      "fabio.tamburini"
     ]
   },
   {
