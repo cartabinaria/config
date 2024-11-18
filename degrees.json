@@ -131,6 +131,11 @@
         "mandatory": false
       },
       {
+        "name": "computational-statistic"
+        "year": 3,
+        "mandatory": false
+      },
+      {
         "name": "ing-laboratorio-sicurezza-informatica-t",
         "year": 3,
         "mandatory": false
