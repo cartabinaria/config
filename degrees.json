@@ -141,7 +141,7 @@
         "mandatory": false
       },
       {
-        "name": "isi-computational-statistics",
+        "name": "computational-statistics",
         "year": 3,
         "mandatory": false
       },
