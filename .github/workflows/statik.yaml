@@ -67,19 +67,10 @@ jobs:
           -page /usr/share/page.gohtml
           -style /usr/share/style.css
           -l
-          -b "https://risorse.students.cs.unibo.it/${{ github.event.repository.name }}/"
+          -b "https://https://risorse.vercel.app/${{ github.event.repository.name }}/"
           -i "${{inputs.regex_include}}"
           -e "README*"
           site
-
-      - name: Substitute URL in order to remain on pages
-        if: inputs.redirect_libri
-        run: >
-          grep 
-          "https://risorse.students.cs.unibo.it/${{ github.event.repository.name}}/libri" 
-          -rl ./site | xargs -r
-          sed -i 
-          "s/https:\/\/risorse.students.cs.unibo.it\/${{ github.event.repository.name}}\/libri/https:\/\/cartabinaria.github.io\/${{ github.event.repository.name}}\/libri\//g"
 
       - name: Generate site artifact
         if: github.ref == 'refs/heads/main'
@@ -96,7 +87,7 @@ jobs:
 
     environment:
       name: github-pages
-      url: "https://risorse.students.cs.unibo.it/${{ github.event.repository.name }}/"
+      url: "https://risorse.vercel.app/${{ github.event.repository.name }}/"
 
     steps:
       - name: Download static site artifact
