@@ -67,7 +67,7 @@ jobs:
           -page /usr/share/page.gohtml
           -style /usr/share/style.css
           -l
-          -b "https://https://risorse.vercel.app/${{ github.event.repository.name }}/"
+          -b "https://risorse.vercel.app/${{ github.event.repository.name }}/"
           -i "${{inputs.regex_include}}"
           -e "README*"
           site
