@@ -445,6 +445,11 @@
         "name": "ing-linguaggi-modelli-m",
         "year": 1,
         "mandatory": false
+      },
+      {
+        "name": "ing-sicurezza-dell-informazione-m",
+        "year": 1,
+        "mandatory": false
       }
     ]
   },
