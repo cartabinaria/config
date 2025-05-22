@@ -69,7 +69,7 @@ jobs:
           -l
           -b "https://risorse.vercel.app/${{ github.event.repository.name }}/"
           -i "${{inputs.regex_include}}"
-          -e "(README*|.github)"
+          -e "(README*|\.github)"
           site
 
       - name: Generate site artifact
