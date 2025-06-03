@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        ref: ${{ github.head_ref }}
+        fetch-depth: 0
       - name: Check JSON syntax
         uses: limitusus/json-syntax-check@v2
         with:
