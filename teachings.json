@@ -1142,5 +1142,13 @@
     "professors": [
       "rebecca.montanari"
     ]
+  },
+  {
+    "name": "Fondamenti di Intelligenza Artificiale",
+    "url": "ing-fondamenti-ia-m",
+    "website": "468002",
+    "professors": [
+      "federico.chesani"
+    ]
   }
 ]

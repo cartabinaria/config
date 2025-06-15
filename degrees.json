@@ -450,6 +450,11 @@
         "name": "ing-sicurezza-dell-informazione-m",
         "year": 1,
         "mandatory": false
+      },
+      {
+        "name": "ing-intelligenza-artificiale-m",
+        "year": 1,
+        "mandatory": false
       }
     ]
   },
