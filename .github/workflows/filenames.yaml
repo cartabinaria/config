@@ -1,4 +1,4 @@
-name: Check filenames
+name: Materie CI
 on:
   workflow_call:
 
@@ -58,3 +58,14 @@ jobs:
 
       - name: Check the `misc` folder
         run: filenameslinter misc
+
+  reuse:
+    name: Check REUSE
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: REUSE Compliance Check
+        uses: fsfe/reuse-action@v5
