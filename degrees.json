@@ -707,6 +707,170 @@
     ]
   },
   {
+    "id": "fisica",
+    "name": "Fisica",
+    "code": "9244/000",
+    "icon": "⚡️",
+    "chat": "",
+    "teachings": [
+      {
+        "name": "difa-algebra-e-geometria",
+        "year": 1,
+        "mandatory": true
+      },
+      {
+        "name": "difa-meccanica",
+        "year": 1,
+        "mandatory": true
+      },
+      {
+        "name": "difa-analisi-matematica-1",
+        "year": 1,
+        "mandatory": true
+      },
+      {
+        "name": "difa-chimica",
+        "year": 1,
+        "mandatory": true
+      },
+      {
+        "name": "difa-termodinamica",
+        "year": 1,
+        "mandatory": true
+      },
+      {
+        "name": "difa-laboratorio-di-meccanica-e-termodinamica",
+        "year": 1,
+        "mandatory": true
+      },
+      {
+        "name": "difa-programmazione-per-la-fisica",
+        "year": 1,
+        "mandatory": true
+      },
+      {
+        "name": "difa-analisi-matematica-2",
+        "year": 2,
+        "mandatory": true
+      },
+      {
+        "name": "difa-elettromagnetismo",
+        "year": 2,
+        "mandatory": true
+      },
+      {
+        "name": "difa-fisica-dei-solidi-e-dei-fluidi",
+        "year": 2,
+        "mandatory": true
+      },
+      {
+        "name": "difa-fenomeni-ondulatori",
+        "year": 2,
+        "mandatory": true
+      },
+      {
+        "name": "difa-fisica-relativistica",
+        "year": 2,
+        "mandatory": true
+      },
+      {
+        "name": "difa-metodi-matematici-della-fisica",
+        "year": 2,
+        "mandatory": true
+      },
+      {
+        "name": "difa-laboratorio-di-elettromagnetismo-e-ottica",
+        "year": 2,
+        "mandatory": true
+      },
+      {
+        "name": "difa-meccanica-analitica",
+        "year": 2,
+        "mandatory": true
+      },
+      {
+        "name": "difa-fisica-nucleare-e-subnucleare",
+        "year": 3,
+        "mandatory": true
+      },
+      {
+        "name": "difa-fisica-della-materia",
+        "year": 3,
+        "mandatory": true
+      },
+      {
+        "name": "difa-laboratorio-di-elettronica",
+        "year": 3,
+        "mandatory": true
+      },
+      {
+        "name": "difa-meccanica-quantistica",
+        "year": 3,
+        "mandatory": true
+      },
+      {
+        "name": "difa-astrofisica",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "difa-data-science",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "difa-fisica-energia",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "difa-fisica-della-terra",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "difa-introduzione-alla-fisica-degli-stati-condensati",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "difa-introduzione-alla-fisica-dei-sistemi-complessi",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "difa-elementi-di-fisica-biomedica-sanitaria",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "difa-elementi-di-ottica-quantistica",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "difa-elementi-di-teoria-della-relativita-generale",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "difa-fondamenti-di-fisica-atmosfera-e-meteorologia",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "difa-grandi-conquiste-e-traguardi-della-fisica-delle-particelle",
+        "year": 3,
+        "mandatory": false
+      },
+      {
+        "name": "difa-topics-in-mathematical-methods-and-models-in-theoretical-physics",
+        "year": 3,
+        "mandatory": false
+      }
+    ]
+  },
+  {
     "id": "lab",
     "name": "Laboratori fra Pari",
     "code": "",
