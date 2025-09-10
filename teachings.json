@@ -1150,5 +1150,142 @@
     "professors": [
       "federico.chesani"
     ]
+  },
+  {
+    "name": "Algebra e geometria",
+    "url": "difa-algebra-e-geometria",
+    "website": "536488",
+    "professors": [
+      "rita.fioresi",
+      "alessia.cattabriga",
+      "emanuele.latini"
+    ]
+  },
+  {
+    "name": "Meccanica",
+    "url": "difa-meccanica",
+    "website": "536492",
+    "professors": [
+      "maurizio.spurio",
+      "marco.tailo",
+      "annarita.margiotta",
+      "federica.fabbri"
+    ]
+  },
+  {
+    "name": "Chimica",
+    "url": "difa-chimica"
+  },
+  {
+    "name": "Termodinamica",
+    "url": "difa-termodinamica",
+  },
+  {
+    "name": "Analisi Matematica 1",
+    "url": "difa-analisi-matematica-1"
+  },
+  {
+    "name": "Laboratorio di meccanica e termodinamica",
+    "url": "difa-laboratorio-di-meccanica-e-termodinamica"
+  },
+  {
+    "name": "Programmazione per la fisica",
+    "url": "difa-programmazione-per-la-fisica"
+  },
+  {
+    "name": "Analisi Matematica 2",
+    "url": "difa-analisi-matematica-2"
+  },
+  {
+    "name": "Elettromagnetismo",
+    "url": "difa-elettromagnetismo"
+  },
+  {
+    "name": "Fisica dei solidi e dei fluidi",
+    "url": "difa-fisica-dei-solidi-e-dei-fluidi"
+  },
+  {
+    "name": "Fenomeni ondulatori",
+    "url": "difa-fenomeni-ondulatori"
+  },
+  {
+    "name": "Fisica relativistica",
+    "url": "difa-fisica-relativistica"
+  },
+  {
+    "name": "Metodi matematici della fisica",
+    "url": "difa-metodi-matematici-della-fisica"
+  },
+  {
+    "name": "Laboratorio di elettromagnetismo e ottica",
+    "url": "difa-laboratorio-di-elettromagnetismo-e-ottica"
+  },
+  {
+    "name": "Meccanica analitica",
+    "url": "difa-meccanica-analitica"
+  },
+  {
+    "name": "Fisica nucleare e subnucleare",
+    "url": "difa-fisica-nucleare-e-subnucleare"
+  },
+  {
+    "name": "Fisica della materia",
+    "url": "difa-fisica-della-materia"
+  },
+  {
+    "name": "Laboratorio di elettronica",
+    "url": "difa-laboratorio-di-elettronica"
+  },
+  {
+    "name": "Meccanica quantistica",
+    "url": "difa-meccanica-quantistica"
+  },
+  {
+    "name": "Astrofisica",
+    "url": "difa-astrofisica"
+  },
+  {
+    "name": "Data science",
+    "url": "difa-data-science"
+  },
+  {
+    "name": "Fisica dell'energia",
+    "url": "difa-fisica-energia"
+  },
+  {
+    "name": "Fisica della terra",
+    "url": "difa-fisica-della-terra"
+  },
+  {
+    "name": "Introduzione alle fisica degli stati condensati",
+    "url": "difa-introduzione-alla-fisica-degli-stati-condensati"
+  },
+  {
+    "name": "Introduzione alla fisica dei sistemi complessi",
+    "url": "difa-introduzione-alla-fisica-dei-sistemi-complessi"
+  },
+  {
+    "name": "Elementi di fisica biomedica sanitaria",
+    "url": "difa-elementi-di-fisica-biomedica-sanitaria"
+  },
+  {
+    "name": "Elementi di ottica quantistica",
+    "url": "difa-elementi-di-ottica-quantistica"
+  },
+  {
+    "name": "Elementi di teoria della relatività generale",
+    "url": "difa-elementi-di-teoria-della-relativita-generale"
+  },
+  {
+    "name": "Fondamenti di fisica dell'atmosfera e meteorologia",
+    "url": "difa-fondamenti-di-fisica-dell-atmosfera-e-meteorologia"
+  },
+  {
+    "name": "Grandi conquiste e traguardi della fisica delle particelle",
+    "url": "difa-grandi-conquiste-e-traguardi-della-fisica-delle-particelle"
+  },
+  {
+    "name": "Topics in mathematical methods and models in theoretical physics",
+    "url": "difa-topics-in-mathematical-methods-and-models-in-theoretical-physics"
   }
 ]
