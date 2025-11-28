@@ -867,6 +867,11 @@
         "name": "difa-topics-in-mathematical-methods-and-models-in-theoretical-physics",
         "year": 3,
         "mandatory": false
+      },
+      {
+        "name": "mat-equazioni-differenziali-ordinarie",
+        "year": 3,
+        "mandatory": false
       }
     ]
   },
