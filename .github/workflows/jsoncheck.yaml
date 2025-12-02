@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2024 Samuele Musiani <samu@teapot.ovh>
+# SPDX-FileCopyrightText: 2024 - 2025 Samuele Musiani <samu@teapot.ovh>
 # SPDX-FileCopyrightText: 2025 Stefano Volpe <foxy@teapot.ovh>
 # SPDX-FileCopyrightText: 2025 Eyad Issa <eyadlorenzo@gmail.com>
 #
@@ -17,8 +17,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-        ref: ${{ github.head_ref }}
-        fetch-depth: 0
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 1
       - name: Check JSON syntax
         uses: limitusus/json-syntax-check@v2
         with:
