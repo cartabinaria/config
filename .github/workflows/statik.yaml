@@ -65,6 +65,9 @@ jobs:
       - name: Recursively compile ipynb files
         run: rec fconvert "\.ipynb$" /usr/bin/jupyter2html
 
+      - name: Rename multifile projects output
+        run: multifile-rename "${{inputs.regex_include}}" .
+
       - name: Generate static directory listing
         run: >
           statik
