@@ -2,16 +2,16 @@
   "l_informatica": {
     "course": "Informatica",
     "representatives": [
-      "mathieu.linty@studio.unibo.it",
-      "samuele.castiglioni@studio.unibo.it",
-      "samuele.musiani@studio.unibo.it",
-      "omar.ayache@studio.unibo.it",
-      "xuanqiang.huang@studio.unibo.it"
+      "alice.benatti4@studio.unibo.it",
+      "william.brusa@studio.unibo.it",
+      "rohan.regmi@studio.unibo.it"
     ]
   },
   "l_informaticamanagement": {
     "course": "Informatica per il Management",
-    "representatives": []
+    "representatives": [
+    	"disi-rappresentanti-studenti-infoman@unibo.it"
+    ]
   },
   "l_ingegneriainformatica": {
     "course": "Ingegneria Informatica",
@@ -28,25 +28,25 @@
   "lm_informatica_software_techniques": {
     "course": "Informatica magistrale - Tecniche del software",
     "representatives": [
-      "federica.grisendi@studio.unibo.it",
-      "davide.cristoni@studio.unibo.it",
-      "gabriele.genovese2@studio.unibo.it"
+	"alice.benatti4@studio.unibo.it",
+	"william.brusa@studio.unibo.it",
+	"rohan.regmi@studio.unibo.it"
     ]
   },
   "lm_informatica_management": {
     "course": "Informatica magistrale - Informatica per il management",
     "representatives": [
-      "federica.grisendi@studio.unibo.it",
-      "davide.cristoni@studio.unibo.it",
-      "gabriele.genovese2@studio.unibo.it"
+	"alice.benatti4@studio.unibo.it",
+	"william.brusa@studio.unibo.it",
+	"rohan.regmi@studio.unibo.it"
     ]
   },
   "lm_informatica_systems_and_networks": {
     "course": "Informatica magistrale - Sistemi e reti",
     "representatives": [
-      "federica.grisendi@studio.unibo.it",
-      "davide.cristoni@studio.unibo.it",
-      "gabriele.genovese2@studio.unibo.it"
+	"alice.benatti4@studio.unibo.it",
+	"william.brusa@studio.unibo.it",
+	"rohan.regmi@studio.unibo.it"
     ]
   },
   "lm_ingegneriascienzeinformatiche": {
