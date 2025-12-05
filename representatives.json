@@ -9,9 +9,7 @@
   },
   "l_informaticamanagement": {
     "course": "Informatica per il Management",
-    "representatives": [
-    	"disi-rappresentanti-studenti-infoman@unibo.it"
-    ]
+    "representatives": ["disi-rappresentanti-studenti-infoman@unibo.it"]
   },
   "l_ingegneriainformatica": {
     "course": "Ingegneria Informatica",
@@ -28,25 +26,25 @@
   "lm_informatica_software_techniques": {
     "course": "Informatica magistrale - Tecniche del software",
     "representatives": [
-	"alice.benatti4@studio.unibo.it",
-	"william.brusa@studio.unibo.it",
-	"rohan.regmi@studio.unibo.it"
+      "alice.benatti4@studio.unibo.it",
+      "william.brusa@studio.unibo.it",
+      "rohan.regmi@studio.unibo.it"
     ]
   },
   "lm_informatica_management": {
     "course": "Informatica magistrale - Informatica per il management",
     "representatives": [
-	"alice.benatti4@studio.unibo.it",
-	"william.brusa@studio.unibo.it",
-	"rohan.regmi@studio.unibo.it"
+      "alice.benatti4@studio.unibo.it",
+      "william.brusa@studio.unibo.it",
+      "rohan.regmi@studio.unibo.it"
     ]
   },
   "lm_informatica_systems_and_networks": {
     "course": "Informatica magistrale - Sistemi e reti",
     "representatives": [
-	"alice.benatti4@studio.unibo.it",
-	"william.brusa@studio.unibo.it",
-	"rohan.regmi@studio.unibo.it"
+      "alice.benatti4@studio.unibo.it",
+      "william.brusa@studio.unibo.it",
+      "rohan.regmi@studio.unibo.it"
     ]
   },
   "lm_ingegneriascienzeinformatiche": {
