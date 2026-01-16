@@ -1291,5 +1291,13 @@
   {
     "name": "Equazioni Differenziali Ordinarie",
     "url": "mat-equazioni-differenziali-ordinarie"
+  },
+  {
+    "name": "Cyber-Physical Systems Programming M",
+    "url": "ing-cyber-physical-systems-programming-m",
+    "website": "479956",
+    "professors": [
+      "andrea.acquaviva"
+    ]
   }
 ]
