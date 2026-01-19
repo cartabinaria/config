@@ -455,6 +455,11 @@
         "name": "ing-intelligenza-artificiale-m",
         "year": 1,
         "mandatory": false
+      },
+      {
+        "name": "ing-sistemi-di-elaborazione-accelerata-m",
+        "year": 1,
+        "mandatory": false
       }
     ]
   },

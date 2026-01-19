@@ -1016,5 +1016,11 @@
     "url": "ing-cyber-physical-systems-programming-m",
     "website": "479956",
     "professors": ["andrea.acquaviva"]
+  },
+  {
+    "name": "Sistemi di elaborazione accelerata M",
+    "url": "ing-sistemi-di-elaborazione-accelerata-m",
+    "website": "543027",
+    "professors": ["stefano.mattoccia", "fabio.tosi5"]
   }
 ]
