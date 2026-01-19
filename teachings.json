@@ -56,10 +56,10 @@
     ]
   },
   {
-    "name": "Fondamenti di informatica T-1",
+    "name": "Fondamenti di informatica T",
     "url": "ing-fondamenti-di-informatica-1-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-    "website": "449442",
+    "website": "543007",
     "professors": [
       "paola.mello",
       "federico.chesani"
@@ -69,7 +69,7 @@
     "name": "Analisi matematica T-1",
     "url": "ing-analisi-matematica-1-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-    "website": "434699",
+    "website": "535282",
     "professors": [
       "paolo.albano",
       "marco.mughetti"
@@ -79,26 +79,26 @@
     "name": "Geometria e algebra T",
     "url": "ing-geometria-e-algebra-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-    "website": "434697",
+    "website": "535301",
     "professors": [
-      "patrizio.frosini"
+      "luca.battistella2"
     ]
   },
   {
-    "name": "Fondamenti di informatica T-2",
+    "name": "Sistemi software ad oggetti T",
     "url": "ing-fondamenti-di-informatica-2-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-    "website": "434698",
+    "website": "543011",
     "professors": [
       "enrico.denti",
-      "roberta.calegari"
+      "ambra.molesini"
     ]
   },
   {
     "name": "Analisi Matematica T-2",
     "url": "ing-analisi-matematica-2-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-    "website": "434693",
+    "website": "535283",
     "professors": [
       "davide.guidetti"
     ]
@@ -107,7 +107,7 @@
     "name": "Reti logiche T",
     "url": "ing-reti-logiche-t",
     "chat": "chat.whatsapp.com/HB1Gp5ZlMzR9xIhgUwEkrA",
-    "website": "434696",
+    "website": "535286",
     "professors": [
       "samuele.salti"
     ]
