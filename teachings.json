@@ -86,42 +86,42 @@
   {
     "name": "Usability e user experience design",
     "url": "usability-e-user-experience-design",
-    "chat": "t.me/uux_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2771",
     "website": "479019",
     "professors": ["fabio.vitali"]
   },
   {
     "name": "Complementi di linguaggi di programmazione",
     "url": "complementi-di-linguaggi-di-programmazione",
-    "chat": "t.me/CLP_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2751",
     "website": "482040",
     "professors": ["cosimo.laneve"]
   },
   {
     "name": "Complementi di basi di dati",
     "url": "complementi-di-basi-di-dati",
-    "chat": "t.me/cdb_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2709",
     "website": "479021",
     "professors": ["danilo.montesi"]
   },
   {
     "name": "Intelligenza artificiale",
     "url": "intelligenza-artificiale",
-    "chat": "t.me/ai_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2711",
     "website": "479022",
     "professors": ["maurizio.gabbrielli", "stefano.zingaro"]
   },
   {
     "name": "Digital forensics",
     "url": "digital-forensics",
-    "chat": "t.me/dforensics_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2734",
     "website": "479039",
     "professors": ["alessandro.amoroso"]
   },
   {
     "name": "Decision making with constraint programming",
     "url": "decision-making-with-constraint-programming",
-    "chat": "t.me/CP_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2730",
     "website": "479038",
     "professors": ["zeynep.kiziltan"]
   },
@@ -135,35 +135,35 @@
   {
     "name": "Modelli e sistemi concorrenti",
     "url": "modelli-e-sistemi-concorrenti",
-    "chat": "t.me/MSC_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2763",
     "website": "479035",
     "professors": ["roberto.gorrieri"]
   },
   {
     "name": "Computer graphics",
     "url": "computer-graphics",
-    "chat": "t.me/graphics_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2767",
     "website": "479028",
     "professors": ["giulio.casciola"]
   },
   {
     "name": "Matematica computazionale",
     "url": "matematica-computazionale",
-    "chat": "t.me/matcomp_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2773",
     "website": "479026",
     "professors": ["giulia.spaletta"]
   },
   {
     "name": "Modelli probabilistici",
     "url": "modelli-probabilistici",
-    "chat": "t.me/modprob_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2749",
     "website": "479025",
     "professors": ["stefano.pagliarini"]
   },
   {
     "name": "Sistemi context aware",
     "url": "sistemi-context-aware",
-    "chat": "t.me/SCA_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2769",
     "website": "479036",
     "professors": ["marco.difelice3"]
   },
@@ -177,14 +177,14 @@
   {
     "name": "Fondamenti logici dell'informatica",
     "url": "fondamenti-logici-informatica",
-    "chat": "t.me/fondamenti_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2761",
     "website": "479027",
-    "professors": ["claudio.sacerdoticoen", "fabio.zanasi"]
+    "professors": ["claudio.sacerdoticoen", "luca.padovani2"]
   },
   {
     "name": "Didattica dell'informatica",
     "url": "didattica-informatica",
-    "chat": "t.me/didatticainfo_unibo",
+    "chat": "t.me/c/mag_informatica_unibo/2757",
     "website": "479040",
     "professors": ["renzo.davoli", "michael.lodi"]
   },
@@ -198,7 +198,7 @@
   {
     "name": "Deep Learning",
     "url": "deep-learning",
-    "chat": "t.me/+3XKIOM3Lnh1kNTM0",
+    "chat": "t.me/c/mag_informatica_unibo/2722",
     "website": "493201",
     "professors": ["andrea.asperti"]
   },
@@ -698,14 +698,14 @@
   {
     "name": "Emerging Programming Paradigms",
     "url": "emerging-programming-paradigms",
-    "chat": "t.me/+YDegI0VHpC1lOTVk",
+    "chat": "t.me/c/mag_informatica_unibo/2743",
     "website": "479059",
-    "professors": ["claudio.sacerdoticoen"]
+    "professors": ["luca.padovani2"]
   },
   {
     "name": "Computer Vision",
     "url": "computer-vision",
-    "chat": "t.me/+9wTytT_D4Lg1MjFk",
+    "chat": "t.me/c/mag_informatica_unibo/2755",
     "website": "479049",
     "professors": ["giuseppe.lisanti"]
   },
@@ -719,42 +719,42 @@
   {
     "name": "Cryptography",
     "url": "cryptography",
-    "chat": "t.me/+h0CF62a0rNRiNDQ0",
+    "chat": "t.me/c/mag_informatica_unibo/2720",
     "website": "479060",
     "professors": ["ugo.dallago"]
   },
   {
     "name": "Scalable and Cloud Programming",
     "url": "scalable-and-cloud-programming",
-    "chat": "t.me/+-7R_uvQAWGhiODZk",
+    "chat": "t.me/c/mag_informatica_unibo/2732",
     "website": "479058",
     "professors": ["gianluigi.zavattaro"]
   },
   {
     "name": "Business Intelligence",
     "url": "business-intelligence",
-    "chat": "t.me/+zoNiPXUXuOFhYjE0",
+    "chat": "t.me/c/mag_informatica_unibo/2717",
     "website": "479052",
     "professors": ["furio.camillo"]
   },
   {
     "name": "Computational Imaging",
     "url": "computational-imaging",
-    "chat": "t.me/+1cVwLP7gVK9hMjg8",
+    "chat": "t.me/c/mag_informatica_unibo/2753",
     "website": "503547",
     "professors": ["elena.lolipiccolomini", "davide.evangelista"]
   },
   {
     "name": "Multimedia Data Management",
     "url": "multimedia-data-management",
-    "chat": "t.me/+eX3Fjlbq90MzMzU0",
+    "chat": "t.me/c/mag_informatica_unibo/2765",
     "website": "479051",
     "professors": ["ilaria.bartolini"]
   },
   {
     "name": "Archietture Software a Microservizi",
     "url": "architetture-software-a-microservizi",
-    "chat": "t.me/+5NgnXeO4C5Q2Y2Zk",
+    "chat": "t.me/c/mag_informatica_unibo/2713",
     "website": "503417",
     "professors": ["davide.rossi", "ivan.lanese"]
   },
@@ -768,7 +768,7 @@
   {
     "name": "Social Network Analysis",
     "url": "dhdk-social-network-analysis",
-    "chat": "t.me/+dJxS4UyQLKwzYmFk",
+    "chat": "t.me/c/mag_informatica_unibo/2745",
     "website": "479048",
     "professors": ["saverio.giallorenzo2"]
   },
@@ -782,70 +782,70 @@
   {
     "name": "Introduction to Quantum Computing",
     "url": "introduction-to-quantum-computing",
-    "chat": "t.me/+iq4QX0zs4dY3ZWQ8",
+    "chat": "t.me/c/mag_informatica_unibo/2747",
     "website": "497857",
     "professors": ["ivan.lanese", "ugo.dallago"]
   },
   {
     "name": "Laboratorio di Realtà Virtuale e Realtà Aumentata",
     "url": "laboratorio-di-realta-virtuale-e-realta-aumentata",
-    "chat": "t.me/+zGLARcD5pO05NTFk",
+    "chat": "t.me/c/mag_informatica_unibo/2736",
     "website": "479047",
     "professors": ["gustavo.marfia"]
   },
   {
     "name": "Blockchain and Cryptocurrencies",
     "url": "blockchain-and-cryptocurrencies",
-    "chat": "t.me/+tFVa17-2aqYxYTdk",
+    "chat": "t.me/c/mag_informatica_unibo/2726",
     "website": "479032",
     "professors": ["claudio.sacerdoticoen"]
   },
   {
     "name": "Complex Systems & Network Science",
     "url": "complex-systems-n-network-science",
-    "chat": "t.me/+PP1HFVoUXsNkYTdk",
+    "chat": "t.me/c/mag_informatica_unibo/2728",
     "website": "479029",
     "professors": ["ozalp.babaoglu"]
   },
   {
     "name": "Distributed Software Systems",
     "url": "distributed-software-systems",
-    "chat": "t.me/+JwQyuZIoA_9iMWJk",
+    "chat": "t.me/c/mag_informatica_unibo/2788",
     "website": "479053",
     "professors": ["paolo.ciancarini"]
   },
   {
     "name": "Human Data Science",
     "url": "human-data-science",
-    "chat": "t.me/+yBqI6rZBmKlhOGM0",
+    "chat": "t.me/c/mag_informatica_unibo/2790",
     "website": "479054",
     "professors": ["marco.roccetti"]
   },
   {
     "name": "Internet of Things",
     "url": "internet-of-things",
-    "chat": "t.me/+ZijCU0oBMJRjZDg0",
+    "chat": "t.me/c/mag_informatica_unibo/2792",
     "website": "479055",
     "professors": ["luciano.bononi", "marco.difelice3"]
   },
   {
     "name": "Cybersecurity",
     "url": "cybersecurity",
-    "chat": "t.me/+RlW5cTy3e2o4Mzdk",
+    "chat": "t.me/c/mag_informatica_unibo/2786",
     "website": "479056",
     "professors": ["michele.colajanni"]
   },
   {
     "name": "Respondabilità Sociale ed Etica d'Impresa",
     "url": "responsabilita-sociale-ed-etica-dimpresa",
-    "chat": "t.me/+GIGYzS95kWBjMGRk",
+    "chat": "t.me/c/mag_informatica_unibo/2784",
     "website": "479031",
     "professors": ["edoardo.mollona"]
   },
   {
     "name": "Data Analytics",
     "url": "data-analytics",
-    "chat": "t.me/+uAzvwPyvC8MzYzk0",
+    "chat": "t.me/c/mag_informatica_unibo/2782",
     "website": "479030",
     "professors": ["marco.difelice3", "giuseppe.lisanti"]
   },
