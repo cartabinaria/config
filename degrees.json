@@ -621,6 +621,10 @@
       {
         "name": "dhdk-natural-language-processing",
         "mandatory": false
+      },
+      {
+        "name": "calcolo-parallelo",
+        "mandatory": false
       }
     ]
   },
