@@ -154,6 +154,11 @@
         "name": "metodi-probabilistici-per-le-applicazioni",
         "year": 3,
         "mandatory": false
+      },
+      {
+        "name": "laboratorio-di-making",
+        "year": 3,
+        "mandatory": false
       }
     ],
     "years": [
