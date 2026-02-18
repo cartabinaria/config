@@ -1022,12 +1022,5 @@
     "url": "ing-sistemi-di-elaborazione-accelerata-m",
     "website": "543027",
     "professors": ["stefano.mattoccia", "fabio.tosi5"]
-  },
-  {
-    "name": "Calcolo Parallelo",
-    "url": "calcolo-parallelo",
-    "website": "544187",
-    "chat": "https://t.me/c/mag_informatica_unibo/8082",
-    "professors": ["moreno.marzolla"]
   }
 ]
