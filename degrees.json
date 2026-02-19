@@ -2,7 +2,7 @@
   {
     "id": "informatica",
     "name": "Informatica",
-    "code": "8009/000",
+    "code": "6640/000",
     "icon": "🧑‍💻",
     "teachings": [
       {
@@ -179,7 +179,7 @@
   {
     "id": "informatica-per-il-management",
     "name": "Informatica per il Management",
-    "code": "8014/000",
+    "code": "6641/000",
     "icon": "💻",
     "chat": "t.me/unibo_info_manag",
     "teachings": [
@@ -427,7 +427,7 @@
   {
     "id": "ingegneria-informatica-magistrale",
     "name": "Ingegneria Informatica Magistrale",
-    "code": "5826/B21",
+    "code": "6719/B21",
     "icon": "👨‍🔧",
     "chat": "t.me/joinchat/BMT7WBYtBSdduMJdhjs3Ew",
     "teachings": [
@@ -471,7 +471,7 @@
   {
     "id": "informatica-magistrale",
     "name": "Informatica Magistrale",
-    "code": "5898/A58",
+    "code": "6698/A58",
     "icon": "🧑‍🏫",
     "chat": "t.me/mag_informatica_unibo",
     "teachings": [
@@ -636,7 +636,7 @@
   {
     "id": "ingegneria-e-scienze-informatiche-magistrale",
     "name": "Ingegneria e Scienze Informatiche Magistrale",
-    "code": "8614/000",
+    "code": "6699/000",
     "icon": "🥸",
     "chat": "chat.whatsapp.com/BgwpLOTuBN543W4bjsOxnl",
     "teachings": [
@@ -650,7 +650,7 @@
   {
     "id": "artificial-intelligence",
     "name": "Master in Artificial Intelligence",
-    "code": "9063/000",
+    "code": "6700/000",
     "icon": "🧠",
     "teachings": [
       {
@@ -723,7 +723,7 @@
   {
     "id": "fisica",
     "name": "Fisica",
-    "code": "9244/000",
+    "code": "6639/000",
     "icon": "⚡️",
     "chat": "",
     "teachings": [
